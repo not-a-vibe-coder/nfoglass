@@ -1,26 +1,139 @@
 @import "tailwindcss";
+@import "../components/ui/glass.css";
 
+/*
+ * Palette lifted from glass.com.ng's own stylesheet (custom.css): the teal #087263 family, the
+ * mint highlights #20ccaa / #89fae4 and the slate #343843. Paper and ink are new: a warm off-white
+ * page with near-black teal ink, so the photographs and the glass effects carry the colour.
+ */
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --paper: #f6f5f0;
+  --paper-2: #ecebe4;
+  --ink: #0e1716;
+  --slate: #343843;
+  --teal-900: #063f37;
+  --teal-700: #087263;
+  --teal-600: #0a9e81;
+  --teal-400: #20ccaa;
+  --teal-200: #89fae4;
+  --teal-50: #e6faf4;
+
+  --background: var(--paper);
+  --foreground: var(--ink);
+  --muted: #e9e8e1;
+  --muted-foreground: #5b605f;
+  --border: rgba(14, 23, 22, 0.14);
+  --ring: var(--teal-600);
+  --primary: var(--teal-700);
+  --primary-foreground: #ffffff;
+
+  --glass-ink: var(--ink);
+  --glass-light: #ffffff;
+}
+
+/* A dark band: the hero and the footer. Every token flips, so shared components just work. */
+.theme-ink {
+  --background: #0a1412;
+  --foreground: #eef5f2;
+  --muted: #16231f;
+  --muted-foreground: #9db1ab;
+  --border: rgba(238, 245, 242, 0.16);
+  --glass-ink: #ffffff;
+  --glass-light: #0a1412;
+  background: var(--background);
+  color: var(--foreground);
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-border: var(--border);
+  --color-ring: var(--ring);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-paper: var(--paper);
+  --color-paper-2: var(--paper-2);
+  --color-ink: var(--ink);
+  --color-slate: var(--slate);
+  --color-teal-900: var(--teal-900);
+  --color-teal-700: var(--teal-700);
+  --color-teal-600: var(--teal-600);
+  --color-teal-400: var(--teal-400);
+  --color-teal-200: var(--teal-200);
+  --color-teal-50: var(--teal-50);
+  --font-sans: var(--font-sans-face), ui-sans-serif, system-ui, sans-serif;
+  --font-display: var(--font-display-face), var(--font-sans-face), ui-sans-serif, sans-serif;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+html {
+  scroll-behavior: smooth;
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+::selection {
+  background: var(--teal-200);
+  color: var(--ink);
+}
+
+/* Poster pieces, after the die-cut A24 sheet: hairline rules, dashed fold lines and black label bars */
+.fold-x {
+  background-image: linear-gradient(to right, currentColor 55%, transparent 0);
+  background-size: 10px 1.5px;
+  background-repeat: repeat-x;
+  height: 1.5px;
+}
+.label-bar {
+  background: var(--ink);
+  color: var(--paper);
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+
+/* Long-form text from the old site */
+.prose-glass p {
+  margin: 0 0 1.1em;
+  line-height: 1.7;
+  color: color-mix(in oklab, var(--foreground) 78%, transparent);
+}
+.prose-glass h3 {
+  font-family: var(--font-display-face);
+  font-size: 1.5rem;
+  line-height: 1.15;
+  margin: 1.8em 0 0.6em;
+  letter-spacing: -0.02em;
+}
+.prose-glass ul {
+  margin: 0 0 1.2em;
+  padding-left: 1.1em;
+  list-style: disc;
+}
+.prose-glass li {
+  margin: 0.3em 0;
+  line-height: 1.6;
+  color: color-mix(in oklab, var(--foreground) 78%, transparent);
+}
+.prose-glass li::marker {
+  color: var(--teal-600);
+}
+
+@keyframes marquee {
+  to {
+    transform: translateX(-50%);
+  }
+}
+.animate-marquee {
+  animation: marquee 40s linear infinite;
+}
+@media (prefers-reduced-motion: reduce) {
+  .animate-marquee {
+    animation: none;
+  }
 }
