@@ -1,0 +1,3389 @@
+{
+ "faq": [
+  {
+   "q": "What is the difference between fire rated glass and safety glass?",
+   "a": "Fire Resistant or Fire Rated glass stops or limits the flames, smoke and heat from a fire for a specific period of time depending on the type of glass used and how it is installed. Safety glass is usually Toughened or Laminated Glass that is harder to break and does not shatter in the same way as ordinary glass; either due to the specific processing the glass has undertaken in manufacturing (toughened) or the bonded interlayer within the glass itself (laminated). Safety glass does not, of itself, have any fire resistance. Safety glass is used to protect against injury on impact. It is suitable for locations with a high risk of accidental damage or where there is an increased risk of vandalism."
+  },
+  {
+   "q": "What is fire rated glass?",
+   "a": "Fire rated glass is specialist glass that has been proven to provide protection against fire – the degree of protection offered will depend on the type of glass but generally the glass acts as a barrier to help prevent the spread of flames and smoke in the event of a fire (integrity). Certain types of fire rated glass will also provide a degree of protection against the heat of a fire (insulation). Once tested, glass is given an official fire protection rating. The degree of protection offered is given in time periods, ranging upwards of 30 minutes."
+  },
+  {
+   "q": "What information is required to get a quote?",
+   "a": "Since all of our glass is custom made to order, we need you to be able to provide the specifications for your piece(s) as exactly as possible in order to quote. For most orders, the minimum information required is: Quantity, Glass Dimensions (width x height), Type of Material, glass thickness and tint, and edgework required (if any). We also need to know your address in order to calculate shipping costs."
+  },
+  {
+   "q": "What if my piece is not a square or rectangle and needs to be cut to a pattern?",
+   "a": "Don’t worry! We can cut to almost any shape. In many cases, we can follow a written description that you have added on our contact form in the comments section. If there are special changes or hard-to-describe dimensions, feel free to submit a preliminary drawing for approval by email to support@glass.com.ng or by phone too.\nOf course, for best results we may recommend that you provide a paper template; there is no substitute for an exact pattern. Please make a tracing of your glass on a large piece of butcher paper/cardboard/grocery sack/etc. and mail it to us at:\nNigeria Online Glass Company\nAttn: www.glass.com.ng\nPlease include your name and contact information on or with the pattern and one of our customer service reps will contact you once the pattern is received to confirm your order."
+  },
+  {
+   "q": "What is your return policy?",
+   "a": "If your glass was damaged in shipment or didn't arrive as ordered, we will gladly replace the piece. Due to the custom nature of our business, we cannot accept returns on glass that was received in good condition and as specified on your order form."
+  },
+  {
+   "q": "Can I cancel my order? / can I change my order?",
+   "a": "Due to the custom nature of our business and to ensure that orders are shipped on time, once your order is submitted and approved we begin working on it immediately. For this reason, most orders cannot be canceled once submitted. If any changes are necessary, please contact our office immediately. In most cases, changes cannot be made once an order has been submitted but we will do our best to accommodate your needs."
+  },
+  {
+   "q": "Is there a warranty on my glass?",
+   "a": "Glass is insured to arrive safely to your door. Once it is received and signed for, we are not responsible for any damage. Please keep in mind that all of our products are very fragile in nature and should be handled with care. We cannot be responsible for damage caused by everyday use or by accidents beyond your control."
+  },
+  {
+   "q": "How do i measure a radius?",
+   "a": "It is simple to measure a radius by using our radius measurement tool. Download the tool by clicking here. Print the tool. When printing please make sure page scaling is set to none. To verify you have printed the tool to the correct scale measure the 20mm Scale Line at the bottom of the page. It should measure out to exactly 20mm. If it does not measure correctly please check your printer settings.\nThe correct radius will fill the entire curved area on the template."
+  },
+  {
+   "q": "What is the mirror with stripes on?",
+   "a": "\"Venetian Stripe Silvered\" deceives the eye by reflecting light from the bands of silvered glass, but is obviously not a secret viewing mirror."
+  },
+  {
+   "q": "Is there such a thing as, \"One-way Mirror\"?",
+   "a": "Yes, 6.4mm Laminated One Way. The glass has a grey body tint with a reflective surface coating. The glass is installed with the surface coating facing the observed area."
+  },
+  {
+   "q": "What thickness should I use for a shelf?",
+   "a": "Again, we have tables and can advise you."
+  },
+  {
+   "q": "Mirrors, how do I determine the, thickness, edgework, number of holes and whether safety backing is required?",
+   "a": "We have tables to help determine the thickness. If the edge is exposed or tiled up to, the edge should be polished. A mirror will normally hang on the screws put in first, so 4 or 6 holes in the right position with the correct fixings, will be sufficient."
+  },
+  {
+   "q": "What is \"Cracked Ice\"?",
+   "a": "An EVA or resin multi laminate where one of the glasses used is a toughened one which after laminating, is broken and gives a \"crazed\" appearance. At the time of inquiry we need to know if the piece is four edge glazed, clear, or tinted, and any processing that may be necessary."
+  },
+  {
+   "q": "What sealants should be used (i.e. are compatible) with the Ethylene Vinyl Acetate (EVA) laminating interlayer films you use?",
+   "a": "We use EVA films for the bespoke laminations we undertake (floor panels, barriers and the like)."
+  },
+  {
+   "q": "Glass floors, is there a maximum area and special frame?",
+   "a": "We have data for the appropriate thickness up to 1m². Submit the UDL in kN/m² and Point Load in kN and advise if a domestic floor, dance floor, corridor, or stair tread, for our recommendations."
+  },
+  {
+   "q": "What sort of glass can be used in a barrier or a balustrade?",
+   "a": "Your Architect, Specifier or Building Control will specify the Uniformly Distributed Load (UDL) in kN/m² and/or the Point Load in kN. On receipt the type of building, eg domestic or commercial and the loadings, we can make a recommendation as to the type of glass to be used."
+  },
+  {
+   "q": "Can \"cut outs\" or \"notches\" for plug sockets or other items be incorporated in the glass?",
+   "a": "Yes, normally in toughened glass to increase the strength of the finished piece so there are rules as to how close to the edge or corner they can be, submit a dimensioned drawing for approval."
+  },
+  {
+   "q": "Can stencils be cut for sandblasting designs onto glass?",
+   "a": "Stencils can be cut from your drawing, after being entered into our graphics computer, a copy will need approving before being put in hand or from your computer generated file."
+  },
+  {
+   "q": "Can you cut a shape from a .dxf or .dwg file emailed to you?",
+   "a": "Yes. We have CNC machines for glass cutting and processing."
+  },
+  {
+   "q": "Can you polish or bevel shapes?",
+   "a": "Shapes can be beveled and polished. Internal radii must exceed the minimum radius for the type of machine the glass is being worked on. Submit details of the shape required."
+  },
+  {
+   "q": "What if I’m interested in a type of glass I don’t see listed?",
+   "a": "The types of glass listed are the only types of glass that we keep in stock and that are available to ship right away. If you have a specific type of glass you need for a project (i.e. special tints, thickness, or patterns), please contact our office. We may be able to special order glass to meet your needs. Please keep in mind that special orders may take up to 2 weeks to be completed and that prices will vary depending on your requests."
+  },
+  {
+   "q": "What if I’m not sure which product is best for me or my application?",
+   "a": "Be sure to check out the following pages for general information on the types of glass available. If you are still unsure of which type of glass you need, please don’t hesitate to contact our office for help. Our customer service representatives are well trained to help you pinpoint the best glass for your application."
+  },
+  {
+   "q": "What diameter hole can be put into a piece of glass?",
+   "a": "Virtually any diameter of hole can be drilled or cut. The internal finish to a hole is generally a smooth one. In toughened glass there are limitations as to how close to the edge the holes can be positioned."
+  },
+  {
+   "q": "What are the basic edge finishes to a piece of glass?",
+   "a": ". Arrissed Edge - The sharp edges are machined, not a finished edge, suitable for glazing or handling purposes or to reduce the risk of thermal fracture in annealed glass.\n. Smoothed Edge - The edge of the glass is machined flat and the edges arrissed but not polished.\n.\n. Polished Edge - The edge of the glass is machined flat, the edges arrissed and the edge is polished.\nTo get a smooth and transparent polished edge on the glass after the grinding and shaping. 3 to 30 mm glass can be polished as follows:\nPolished trapezium (Chamfer)\nPolished rounded and half rounded\nPolished Wave (Ogee)\nBevel - The face surface of the glass is ground way and polished to various widths and thickness at the edge. Unless the thickness at the edge is specified, it will be to our normal setting.\nFor 3 mm thick glass - up to 15 mm\nFor 4 mm thick glass - up to 20 mm\nFor 5 mm plus thick glass - up to 25 mm\nBeveling is possible between 3 and 45 degrees and can be done on both sides of the glass. Minimum work piece dimensions is 35 x 35 mm. Facet on curved pieces possible max 17mm, on square pieces up to 25mm."
+  },
+  {
+   "q": "Where is laminated glass used?",
+   "a": "Laminated glass is mostly used for safety / security applications as a result of building codes that require higher levels of protection against breakage compared to standard glass e.g. shop fronts."
+  },
+  {
+   "q": "Can I get a free quotation before I buy?",
+   "a": "Yes, we just require you to take a few measurements for us first then request a free quote online. You can either insert measurements online, via email, over the phone or pop into our showroom and we’ll provide you with a written quotation depending on your requirements."
+  },
+  {
+   "q": "Can you cut toughened glass?",
+   "a": "Once toughened, the glass cannot be cut. We can cut regular float glass before it is toughened, but after this it is not possible to cut it to size."
+  },
+  {
+   "q": "Do you offer made to measure tabletop glass?",
+   "a": "Yes, we offer normal float glass as well as toughened, polished and bespoke shaped glass. We would need to have a discussion with you first about your needs and the base of the table, so we can advise you on the best glass to use."
+  },
+  {
+   "q": "Do you offer a measuring service for glass products?",
+   "a": "If you have accepted our quote and are happy to go ahead, we will come and take exact measurements to allow for a precise fit. However, if we are not fitting your product, we don’t tend to come out to measure up."
+  },
+  {
+   "q": "Do you offer a delivery and fitting service for glass products?",
+   "a": "Yes, we offer a delivery and fitting service. Please see our map for further details on the areas we deliver to. Please note: a delivery driver is different to a glazier, so please let us know if you require fitting services from us when ordering, therefore we can send the appropriate people out to you."
+  },
+  {
+   "q": "I want a commercial glass door 1800mm high x 600mm wide, how thick will the glass need to be?",
+   "a": "Commercial Glass Doors need to be either 10mm or 12mm thick and toughened."
+  },
+  {
+   "q": "What is Laminated glass?",
+   "a": "Laminated glass is a form of Safety Glass that is manufactured by sandwiching a layer of Polyvinyl Butyral (PVB) between two pieces of glass."
+  },
+  {
+   "q": "Does glass need to be toughened?",
+   "a": "Health and safety restrictions increasingly require glass to be toughened according to its size and use. We will advise you when this is necessary."
+  },
+  {
+   "q": "What is Toughened Glass ?",
+   "a": "Glass that has been heated to softening point then rapidly cooled. Toughened glass is five times stronger than float glass and offers the highest resistance to impact. It is ideal for application in doors etc. If broken, the whole pane of glass shatters into small pieces that are relatively safe."
+  },
+  {
+   "q": "What is safety glass and why do I need it in my home or office?",
+   "a": "\"Safety glass\" is a term given to specific types of glass that when broken will break in such a way as to minimize potential injury to people. This is in contrast to standard \"plate glass\" which can be dangerous due to the large sharp spear-like pieces that are created when broken."
+  },
+  {
+   "q": "I just broke my grandmother's antique mirror (or other glass or mirror item) and I need to have fixed ASAP. Can www.Glass.com.ng help me out of my dilemma?",
+   "a": "Unfortunately we cannot repair glass, but we can supply a new replacement piece."
+  },
+  {
+   "q": "Do you toughen mirrors?",
+   "a": "Yes we can supply toughened mirrors."
+  },
+  {
+   "q": "Can you cut glass to any size I need?",
+   "a": "Yes, we cut all kinds of glass to your exact specifications. Intricate tabletops or mirrors are machine cut in our factory."
+  }
+ ],
+ "products": [
+  {
+   "slug": "custom-mirrors",
+   "title": "Custom Mirrors",
+   "img": "mirror",
+   "blocks": [
+    {
+     "k": "p",
+     "x": "Mirrors are a great way of making a room feel bigger and lit up. We stock all types of available mirror in sheets of 3.2m x 2.2m, giving us the ability to produce mirrors for almost any application."
+    },
+    {
+     "k": "li",
+     "x": "Available in Silver (Standard Mirror), Bronze Tint, Grey (Smoked) Tint and Antique Silver"
+    },
+    {
+     "k": "li",
+     "x": "Smooth Polished Edges"
+    },
+    {
+     "k": "li",
+     "x": "Available with Bevelled Edge Work or Standard Polishing"
+    },
+    {
+     "k": "li",
+     "x": "All Required Fittings can be supplied"
+    },
+    {
+     "k": "li",
+     "x": "Maximum Dimensions – 2240mm x 3200mm"
+    },
+    {
+     "k": "li",
+     "x": "Machined Cutouts and Notches to allow for Hinges, Handles, etc"
+    },
+    {
+     "k": "li",
+     "x": "4mm and 6mm Thicknesses"
+    },
+    {
+     "k": "li",
+     "x": "Toughened Mirror not Available"
+    },
+    {
+     "k": "p",
+     "x": "We offer options such as Shaped & Linear Edge Polishing, Bevelling, Safety Backing, Sandblasting & Drilling and much more."
+    },
+    {
+     "k": "p",
+     "x": "Our Mirrors can be screwed into place or fitted by means of adhesive."
+    },
+    {
+     "k": "p",
+     "x": "These features make our mirrors ideal for areas such as Gym Walls / Exercise Areas, Bathrooms, Living Areas and general wall cladding."
+    },
+    {
+     "k": "p",
+     "x": "Online Ordering Available"
+    },
+    {
+     "k": "p",
+     "x": "Order sizes up to 3200mm x 1100mm from our Online Shop, delivered to your door."
+    },
+    {
+     "k": "p",
+     "x": "Available Online in Silver (Standard Mirror), Bronze Tint, Grey (Smoked) Tint and Antique Silver."
+    },
+    {
+     "k": "p",
+     "x": "Order Mirror Samples"
+    },
+    {
+     "k": "p",
+     "x": "We stock each type of Standard and Tinted Mirror, to order Samples please see our Mirror Samples page."
+    },
+    {
+     "k": "p",
+     "x": "Our Mirrors are Safe for your Home"
+    },
+    {
+     "k": "p",
+     "x": "All of our glass Mirrors are made to the highest quality and fitted with care and precision."
+    },
+    {
+     "k": "p",
+     "x": "We can install these in any area of the home such as Kitchens, Living Rooms and Bathrooms for example."
+    },
+    {
+     "k": "p",
+     "x": "Available Edge Finishes"
+    },
+    {
+     "k": "p",
+     "x": "We can offer two different edge finishes on our mirrors :"
+    },
+    {
+     "k": "p",
+     "x": "Flat and Arriss – This profile features a polished edge with two small 45 degree chamfers, one to the top surface and one to the underside."
+    },
+    {
+     "k": "p",
+     "x": "Bevel – The face surface of the glass is ground way and polished to various widths and thickness at the edge. Unless the thickness at the edge is specified, it will be to our normal setting."
+    },
+    {
+     "k": "p",
+     "x": "For 3 mm thick glass – up to 15 mm"
+    },
+    {
+     "k": "p",
+     "x": "For 4 mm thick glass – up to 20 mm"
+    },
+    {
+     "k": "p",
+     "x": "For 5 mm plus thick glass – up to 25 mm"
+    },
+    {
+     "k": "p",
+     "x": "Bevelling is possible between 3 and 45 degrees and can be done on both sides of the glass. Minimum work piece dimensions is 35 x 35 mm. Facet on curved pieces possible max 17mm, on square pieces up to 25mm."
+    },
+    {
+     "k": "p",
+     "x": "Engraved / Sandblasted Mirrors"
+    },
+    {
+     "k": "p",
+     "x": "If you have a design you would like on your mirror, we are equipped to help. Simply contact us and provide a diagram / CAD Drawing / Template of the design you require."
+    },
+    {
+     "k": "p",
+     "x": "Fitting"
+    },
+    {
+     "k": "p",
+     "x": "We can drill our mirrors to allow for screws or provide Mirror Adhesive enabling you to install your mirror with no visible fixings. For all drilled Mirrors we do recommend saftefy backing to ensure large shards cannot fall from the wall if broken."
+    },
+    {
+     "k": "p",
+     "x": "Require a Quote or have a Question?"
+    },
+    {
+     "k": "p",
+     "x": "If you know what you need and require a quotation, fill out our Quotation Form"
+    },
+    {
+     "k": "p",
+     "x": "If there is anything you would like to know regarding this product, please fill out our Enquiry Form or Contact Us"
+    }
+   ]
+  },
+  {
+   "slug": "glass-table-tops",
+   "title": "Glass Table Tops",
+   "img": "glassware",
+   "blocks": [
+    {
+     "k": "p",
+     "x": "NFOglass has the ability to create beautiful glass table tops, built to your specifications. There’s several benefits to a glass table top including protection and improved aesthetics. Glass table tops can protect your furniture from scratches and possible damage."
+    },
+    {
+     "k": "p",
+     "x": "We can manufacture Glass Table Tops in any shape and size in a range of glass thicknesses and types. Simply Choose the shape you require to begin your Online Order"
+    },
+    {
+     "k": "p",
+     "x": "Suitable Uses"
+    },
+    {
+     "k": "li",
+     "x": "Dinning Room Tables"
+    },
+    {
+     "k": "li",
+     "x": "Coffee Tables"
+    },
+    {
+     "k": "li",
+     "x": "Cabinet door glass"
+    },
+    {
+     "k": "li",
+     "x": "Outdoor (Except Painted Products)/ Patio Tables"
+    },
+    {
+     "k": "li",
+     "x": "Table Top Protectors"
+    },
+    {
+     "k": "li",
+     "x": "Kitchen splashback painted glass"
+    },
+    {
+     "k": "li",
+     "x": "Desk Protectors with holes for cabling"
+    },
+    {
+     "k": "p",
+     "x": "Avaliable in 4mm / 6mm / 8mm / 10mm / 15mm / 19mm depending on the requirements of the table itself."
+    },
+    {
+     "k": "p",
+     "x": "Features of our Tables"
+    },
+    {
+     "k": "li",
+     "x": "Toughened / Heat Strengthened to British Standards"
+    },
+    {
+     "k": "li",
+     "x": "Radius (Rounded) Corners are available"
+    },
+    {
+     "k": "li",
+     "x": "All Edge work is Machined and Polished as Standard"
+    },
+    {
+     "k": "li",
+     "x": "Stainless Steel Fixings can be UV Bonded on request"
+    },
+    {
+     "k": "li",
+     "x": "Available in Clear, Frosted, Bronze / Grey Tints or Colour Backed Glass"
+    },
+    {
+     "k": "li",
+     "x": "Online Ordering AvailableOrder from our Online Shop, delivered to your door."
+    },
+    {
+     "k": "p",
+     "x": "Templating& Fitting"
+    },
+    {
+     "k": "p",
+     "x": "We offer our templating and fitting service all around Lagos and its surrounding areas also following the Lagos Island by Eko Atlantic (beside our corporate office), this is a particularly useful service if the table is of a complex design or requires fixing hardware."
+    },
+    {
+     "k": "p",
+     "x": "Our Table Tops are available in any Colour"
+    },
+    {
+     "k": "p",
+     "x": "We have a wide standard colour range giving you flexibility when designing your kitchen, while also providing you with the lowest price possible."
+    },
+    {
+     "k": "p",
+     "x": "To view our full Colour Range please send an email to orders@glass.com.ngfor more information."
+    },
+    {
+     "k": "p",
+     "x": "Unfortunately no standard colour range will have something for everyone, which is why we provide a colour matching service giving you the ability to choose the exact finish you desire."
+    },
+    {
+     "k": "p",
+     "x": "We create our Table Tops using the best quality glass so that the colour will remain pure and unaffected by the traditional green glass tint."
+    },
+    {
+     "k": "p",
+     "x": "Our Table Tops are safe for your Home and Office"
+    },
+    {
+     "k": "p",
+     "x": "All of our Table Tops are machined and toughened to the highest standard to ensure lifetime and resilience. This means that our Table Tops will have no problem when exposed to heat sources and will be resistant to impact."
+    }
+   ]
+  },
+  {
+   "slug": "glass-shelves",
+   "title": "Glass Shelves",
+   "img": "shelves",
+   "blocks": [
+    {
+     "k": "p",
+     "x": "We can produce Glass Shelves in any shape and size to suit your requirements . Simply Choose the shape you require to begin your Online OrderAll of the fixings and accessories can be provided should you require them."
+    },
+    {
+     "k": "p",
+     "x": "Features of our Shelves"
+    },
+    {
+     "k": "li",
+     "x": "Toughened / Tempered safety glass"
+    },
+    {
+     "k": "li",
+     "x": "Smooth Polished Edges"
+    },
+    {
+     "k": "li",
+     "x": "All Required Fittings can be supplied"
+    },
+    {
+     "k": "li",
+     "x": "Maximum Dimensions – 3200mm x 2240mm"
+    },
+    {
+     "k": "li",
+     "x": "Machined Cutouts and Notches to allow for Hinges, Holes, Brackets, etc"
+    },
+    {
+     "k": "p",
+     "x": "We can produce Shelves in any shape and size to suit your requirements. All of the fixings and accessories can be provided should you require them."
+    },
+    {
+     "k": "p",
+     "x": "Require Bespoke Shapes?"
+    },
+    {
+     "k": "p",
+     "x": "As we manufacture all of our own products, we can produce almost any shape and size. We can work from Templates, CAD Drawing and Sketches."
+    },
+    {
+     "k": "p",
+     "x": "Safety and Quality"
+    },
+    {
+     "k": "p",
+     "x": "To ensure Safety, all of the glass we supply is Toughened to British Standards with a smooth Polished Finish on all of the edge work as standard."
+    },
+    {
+     "k": "p",
+     "x": "Online Ordering Available"
+    },
+    {
+     "k": "p",
+     "x": "Order sizes up to 3200mm x 1100mm from our Online Shop, delivered to your door"
+    },
+    {
+     "k": "p",
+     "x": "Fixings and Fittings"
+    },
+    {
+     "k": "p",
+     "x": "We can supply all of the needed fittings and fixings required for the job in a range of styles and finishes. We also offer a bespoke option of UV bonding fixings to the glass, such as door handles. A popular choice currently is to have a glass Door handle UV bonded to the glass door panel for an all glass look."
+    },
+    {
+     "k": "p",
+     "x": "Require a Quote or have a Question?"
+    },
+    {
+     "k": "p",
+     "x": "If you know what you need and require a quotation, fill out our Quotation Form"
+    },
+    {
+     "k": "p",
+     "x": "If there is anything you would like to know regarding this product, please fill out our Enquiry Form or Contact Us"
+    }
+   ]
+  },
+  {
+   "slug": "glass-staircases",
+   "title": "Glass staircases",
+   "img": "stair",
+   "blocks": [
+    {
+     "k": "p",
+     "x": "What is it?"
+    },
+    {
+     "k": "p",
+     "x": "Glass stairs, stair halls or glass staircases are becoming more and more common. The Glass Stair Company use glass components for glass staircase systems; i.e. glass stair treads and glass balustrade infill panels to make an average house look contemporary and modern, Staircases with Glass Balustrades are the most popular."
+    },
+    {
+     "k": "p",
+     "x": "Glass stair treads are usually manufactured using a combination of 10mm float glass and 25mm float glass laminated together. A non slip surface can be achieved in several ways, the most popular being an all over sandblast and Ritec coat finish. Another popular anti-slip preference is for grooves to be cut into the front edge of the tread. By using special architectural glass which is chemically treated, tempered and laminated it is possible to get the required strength to hold the weight of itself and the people walking on it."
+    },
+    {
+     "k": "p",
+     "x": "Specification"
+    },
+    {
+     "k": "p",
+     "x": "Thickness"
+    },
+    {
+     "k": "p",
+     "x": "6.38mm,8.38mm,10.38mm,12.38mm,16.38mm,6.76mm, 8.76mm,10.76mm,12.76mm,16.76mm,20.76mm,24.76mm."
+    },
+    {
+     "k": "p",
+     "x": "Thickness of PVB"
+    },
+    {
+     "k": "p",
+     "x": "0.38mm,0.76mm,1.14mm,1.52mm,2.28mm,3.04mm"
+    },
+    {
+     "k": "p",
+     "x": "Thickness of SGP"
+    },
+    {
+     "k": "p",
+     "x": "1.52mm,3.04mm"
+    },
+    {
+     "k": "p",
+     "x": "Interlayer"
+    },
+    {
+     "k": "p",
+     "x": "1 layer,2 layers,3 layers and more layers according to your requirements"
+    },
+    {
+     "k": "p",
+     "x": "Interlayer film color"
+    },
+    {
+     "k": "p",
+     "x": "transparent, milk, blue, dark grey, light green, bronze, etc."
+    },
+    {
+     "k": "p",
+     "x": "Max size"
+    },
+    {
+     "k": "p",
+     "x": "2440mm*3660mm"
+    },
+    {
+     "k": "p",
+     "x": "Quality Standard"
+    },
+    {
+     "k": "p",
+     "x": "CE/CCC/ISO"
+    },
+    {
+     "k": "p",
+     "x": "Packing Details"
+    },
+    {
+     "k": "p",
+     "x": "1. Interlay paper or plastic between two sheets 2. Seaworthy wooden crates 3. Iron belt for consolidation"
+    },
+    {
+     "k": "p",
+     "x": "Application"
+    },
+    {
+     "k": "p",
+     "x": "Shopping mall,office buildings,airports, expo centres, homes, supermarkets, shopping malls, museums, landscape corridors or other need to slip placee.t.c."
+    }
+   ]
+  },
+  {
+   "slug": "furniture-glass",
+   "title": "Furniture glass",
+   "img": "reflect",
+   "blocks": [
+    {
+     "k": "p",
+     "x": "The furniture glass is more widely used for the following:"
+    },
+    {
+     "k": "p",
+     "x": "Suitable Uses"
+    },
+    {
+     "k": "li",
+     "x": "Dinning Room Tables"
+    },
+    {
+     "k": "li",
+     "x": "Coffee Tables"
+    },
+    {
+     "k": "li",
+     "x": "Cabinet door glass"
+    },
+    {
+     "k": "li",
+     "x": "Outdoor (Except Painted Products)/ Patio Tables"
+    },
+    {
+     "k": "li",
+     "x": "Table Top Protectors"
+    },
+    {
+     "k": "li",
+     "x": "Kitchen splashback painted glass"
+    },
+    {
+     "k": "li",
+     "x": "Desk Protectors with holes for cabling"
+    },
+    {
+     "k": "p",
+     "x": "Avaliable in 4mm / 6mm / 8mm / 10mm / 15mm / 19mm depending on the requirements of the table itself."
+    },
+    {
+     "k": "p",
+     "x": "This kind glass is tempered and safe glass ,fragment do no harm to people;4-5 times safer and harder."
+    }
+   ]
+  },
+  {
+   "slug": "custom-glass-whiteboard",
+   "title": "Custom glass whiteboard",
+   "img": "facade",
+   "blocks": [
+    {
+     "k": "p",
+     "x": "We create custom whiteboards out of glass at whatever height, width, and thickness you need."
+    },
+    {
+     "k": "p",
+     "x": "Transform your workspace with an upscale designer glass dry erase board. Create endless possibilities with a custom glass whiteboard made to your size, shape and thickness needs."
+    },
+    {
+     "k": "p",
+     "x": "A beautifully tempered and finished glass whiteboard is perfect for use with dry-erase markers. Glass whiteboards have been quickly growing in popularity over the past few years, with consumers increasingly favoring their unique texture and excellent writing surface."
+    },
+    {
+     "k": "li",
+     "x": "Tempered Glass for strength and durability."
+    },
+    {
+     "k": "li",
+     "x": "Available in clear or white."
+    },
+    {
+     "k": "li",
+     "x": "Erasing is effortless and will not stain or ghost"
+    },
+    {
+     "k": "li",
+     "x": "Frameless design blends into any office, conference room or boardroom."
+    },
+    {
+     "k": "li",
+     "x": "Customize shape, dimensions, thickness (6 0r 8mm) and edge finish"
+    },
+    {
+     "k": "li",
+     "x": "Add holes and cutouts to fit most any application."
+    },
+    {
+     "k": "p",
+     "x": "PRICING AND ORDERING"
+    },
+    {
+     "k": "p",
+     "x": "To get started with instant online pricing and ordering click here"
+    },
+    {
+     "k": "p",
+     "x": "Glass Whiteboard: Opaque White Tempered Laminate is made up of two pieces of clear tempered glass with an opaque white EVA laminate inner layer. The online quote / ordering system allows you to select from standard shapes or you can submit a drawing of your custom shape."
+    },
+    {
+     "k": "p",
+     "x": "Clear Glass Dry Erase Board: Clear tempered glass or tempered laminate for thicker requirements make for a stylish clear marker board. The tempered glass gives a harder and more durable surface than ordinary glass."
+    },
+    {
+     "k": "p",
+     "x": "Edge Finishes Available"
+    },
+    {
+     "k": "p",
+     "x": "Flat Grind: Has a matte, frosty or satin finish."
+    },
+    {
+     "k": "p",
+     "x": "Flat Polish: Has a shiny or glossy finish."
+    },
+    {
+     "k": "p",
+     "x": "Custom Holes and Cutouts"
+    },
+    {
+     "k": "p",
+     "x": "We can drill Holes, Clamp Notches, Hinge Cut-Outs, Plug Cut-outs, Finger Pulls and more in Tempered Glass. Perfect for mounting holes or for turning cabinet doors into a unique write on glass whiteboard."
+    },
+    {
+     "k": "p",
+     "x": "Create visual display surfaces in most any setting. Ideal for use in offices, research and medical facilities, laboratories, hospitals, schools, colleges, universities and government offices."
+    },
+    {
+     "k": "p",
+     "x": "Get instant online pricing, click here"
+    },
+    {
+     "k": "p",
+     "x": "Require a Quote or have a Question?"
+    },
+    {
+     "k": "p",
+     "x": "If you know what you need and require a quotation, fill out our Quotation Form"
+    },
+    {
+     "k": "p",
+     "x": "If there is anything you would like to know regarding this product, please fill out our Enquiry Form or Contact Us"
+    }
+   ]
+  },
+  {
+   "slug": "freezer-glass",
+   "title": "Freezer glass",
+   "img": "door2",
+   "blocks": [
+    {
+     "k": "p",
+     "x": "The freezer glass can be found many place in our lives! They usually use insulated glass as they can keep the cabin temperature well. That big freezer glass is widely used for fresh foods frozen and fresh factory and household appliances."
+    },
+    {
+     "k": "p",
+     "x": "The freezer glass is very important to our live"
+    }
+   ]
+  },
+  {
+   "slug": "painted-toughened-glass-splashbacks",
+   "title": "Painted & Toughened Glass Splashbacks",
+   "img": "splashback",
+   "blocks": [
+    {
+     "k": "p",
+     "x": "Order Glass Online – Click Here"
+    },
+    {
+     "k": "p",
+     "x": "An easy way of creating a unique and eye catching feature in any room is to panel the walls with Glass Splashbacks made from painted low iron glass."
+    },
+    {
+     "k": "p",
+     "x": "We manufacture our Glass Splashbacks from 6mm Thick premium quality Glass, which once machined, goes through a Toughening process to give the glass high temperature & impact resistance. Finally the glass is then given a solid paint coat on its rear face to create a rich coloured wall panel, without showing anything behind the glass."
+    },
+    {
+     "k": "p",
+     "x": "Glass Splashbacks are perfect for use behind Hobs & Sinks as they are easily wiped clean and keep their appearance from new."
+    },
+    {
+     "k": "p",
+     "x": "We prefer to install our Splashbacks using Adhesive to give a clean installed appearance, but can instead drill the glass and fix with screws should this be requested during ordering."
+    },
+    {
+     "k": "p",
+     "x": "We manufacture our Glass Splashbacks from glass stock measuring 3.2 metres x 2.2 metres, allowing us to produce full length runs, eliminating the need for unsightly joins around the kitchen walls."
+    },
+    {
+     "k": "p",
+     "x": "Our Glass Splashbacks are tailored made to fit your Kitchen"
+    },
+    {
+     "k": "p",
+     "x": "We offer a complete Templating and Fitting service which consists of a visit from one of our Fitters to take all of the required measurements, enabling us to manufacture the Splashbacks to get the perfect fit allowing for any sockets, switches or wall units. Once we have produced these panels, our Fitters will return with the glass for installation. We work to a 10 Working Day lead time."
+    },
+    {
+     "k": "p",
+     "x": "Walls do not need to be perfectly flat for our glass to cover them, making a quick solution to improving your kitchen."
+    },
+    {
+     "k": "p",
+     "x": "Online Ordering Available"
+    },
+    {
+     "k": "p",
+     "x": "Order sizes up to 3200mm x 1100mm from our Online Shop, delivered to your door."
+    },
+    {
+     "k": "p",
+     "x": "To view our full Colour Range please send an email to orders@glass.com.ng for more information."
+    },
+    {
+     "k": "p",
+     "x": "We have a wide standard colour range giving you flexibility when designing your kitchen, while also providing you with the lowest price possible."
+    },
+    {
+     "k": "p",
+     "x": "To view or Order colours from our standard range please use our Standard Colour Browser."
+    },
+    {
+     "k": "p",
+     "x": "Available in any Colour"
+    },
+    {
+     "k": "p",
+     "x": "We offer a Colour Matching service at an addtional charge. Please be aware that Coloured Glass is very sensitive to lighting, for example, vertically positioning glass under wall units will appear differently to horizontally positioning the same coloured glass as a worktop"
+    },
+    {
+     "k": "p",
+     "x": "We produce our painted glass products using Pilkingtons Low-Iron (Opti-White) so that the colour will remain pure and unaffected by the traditional green glass tint."
+    },
+    {
+     "k": "p",
+     "x": "Features of our Splashbacks"
+    },
+    {
+     "k": "li",
+     "x": "Toughened to British Standards"
+    },
+    {
+     "k": "li",
+     "x": "Smooth Polished Edges"
+    },
+    {
+     "k": "li",
+     "x": "Heat Resistant"
+    },
+    {
+     "k": "li",
+     "x": "Large Colour Selection"
+    },
+    {
+     "k": "li",
+     "x": "Colour Matching Avaliable"
+    },
+    {
+     "k": "li",
+     "x": "Maximum Dimensions – 3200mm x 2240mm"
+    },
+    {
+     "k": "li",
+     "x": "Machined Cutouts and Notches to allow for Sockets, Wall Units, Etc"
+    },
+    {
+     "k": "p",
+     "x": "Safe for your Kitchen"
+    },
+    {
+     "k": "p",
+     "x": "Kitchen applications such as hobs and cookers can pose problems for poor quality splashbacks, causing them to degrade and sometimes even break. This is not a problem when having our splashbacks installed as they are made from the highest quality Low Iron glass before undergoing a toughening process, giving the panels strength and heat resistance far beyond the requirements of kitchen use, guaranteeing you safety and extended lifetime."
+    },
+    {
+     "k": "p",
+     "x": "What Are the Benefits?"
+    },
+    {
+     "k": "li",
+     "x": "Easy to clean and requiring no specialist cleaning products, your bathroom splashback is straightforward to maintain."
+    },
+    {
+     "k": "li",
+     "x": "Made from toughened glass, our bathroom splashbacks are heat and impact resistant to the same level as safety glass. This means that you don’t have to worry about damaging your stunning home addition as you go about your day to day life."
+    },
+    {
+     "k": "p",
+     "x": "As all of our bathroom splashbacks are hand cut here in Nigeria, we can fully customise your splashback to suit your needs."
+    },
+    {
+     "k": "p",
+     "x": "Require a Quote or have a Question?"
+    },
+    {
+     "k": "p",
+     "x": "If you know what you need and require a quotation, fill out our Quotation Form"
+    },
+    {
+     "k": "p",
+     "x": "If there is anything you would like to know regarding this product, please fill out our Enquiry Form or Contact Us"
+    }
+   ]
+  },
+  {
+   "slug": "glass-balustrades",
+   "title": "Glass balustrades",
+   "img": "balustrade",
+   "blocks": [
+    {
+     "k": "p",
+     "x": "The railing glass is usually used for staircase, baluster, balustrade, handrail stainless steel railing, glass door handle as well as bathroom, swimming pool."
+    },
+    {
+     "k": "p",
+     "x": "Railing glass usually will be tempered glass to provide desired safety and security. Glass railings add polish and a finishing touch to the outdoor space without comprising scenic beauty. Glass railings also provide increased visibility – especially while sitting or lying down."
+    },
+    {
+     "k": "p",
+     "x": "We are able to fit the balustrade using stainless steel fixings to create a modern look, or use channeling to create a clean and sleek look. A popular choice of channeling is the Posiglazesystem which is tried and tested providing peace of mind and modern styling."
+    },
+    {
+     "k": "p",
+     "x": "We are able to supply all of the stainless steel fixings/ channels required to install your balustrade."
+    },
+    {
+     "k": "p",
+     "x": "For any information concerning fixings please contact us."
+    },
+    {
+     "k": "p",
+     "x": "Handrails are available should you require them. Please make us aware that a handrail is required in your enquiry as the glass cannot be reworked once installed on site."
+    },
+    {
+     "k": "p",
+     "x": "We make sure that our installations comply with the current Building Regulations."
+    },
+    {
+     "k": "p",
+     "x": "Our Balustrades are suitable for any application"
+    },
+    {
+     "k": "p",
+     "x": "All of our Balustrades are machined and toughened to the highest standard to ensure a long lifetime and resilience, they will be resistant to impact and will not degrade over time."
+    },
+    {
+     "k": "p",
+     "x": "Templating / Fitting / Delivery"
+    },
+    {
+     "k": "p",
+     "x": "We offer a template and fitting service for all of our products. For further information please contact us with details of your address."
+    },
+    {
+     "k": "p",
+     "x": "Delivery Only is also available."
+    },
+    {
+     "k": "p",
+     "x": "Templating must be done by ourselves, or someone with experience installing and templating glass balustrading. Once the balustrade has been manufactured, it is no longer possible to alter the glass in any way."
+    }
+   ]
+  },
+  {
+   "slug": "canopy-roofs",
+   "title": "Canopy Roofs",
+   "img": "canopy",
+   "blocks": [
+    {
+     "k": "p",
+     "x": "When you install a frameless glass canopy roof, you’re adding a simple upgrade that increases value and adds a bit of luxury to your facade. Our canopy roofs are all custom and made to order."
+    },
+    {
+     "k": "p",
+     "x": "All of the fixings and accessories can be provided should you require them."
+    },
+    {
+     "k": "p",
+     "x": "To ensure the perfect fit we recommend having one of our glass installers measure and fit the glass, as allowances need to be taken into consideration such as type of glass carrier and support, etc."
+    },
+    {
+     "k": "p",
+     "x": "We aim to give every customer their ideal product and are happy to carry the customer through each step of our workshop processes."
+    }
+   ]
+  },
+  {
+   "slug": "shower-doors",
+   "title": "Shower Doors",
+   "img": "shower",
+   "blocks": [
+    {
+     "k": "p",
+     "x": "Tempered Glass Shower Door is made of clear glass,tintedglass,frostedglass,decorative glass etc."
+    },
+    {
+     "k": "p",
+     "x": "GLASS SHOWER DOOR SPECIFICATION"
+    },
+    {
+     "k": "p",
+     "x": "Glass type:"
+    },
+    {
+     "k": "p",
+     "x": "Tempered Glass Shower Door,Acid Etched Glass Shower Door,Laminated Glass Shower Door,Sandblasted Glass Shower Door,Screenprintting Glass Shower Door"
+    },
+    {
+     "k": "p",
+     "x": "Tickness:"
+    },
+    {
+     "k": "p",
+     "x": "8mm, 10mm, 12mm,"
+    },
+    {
+     "k": "p",
+     "x": "Size:"
+    },
+    {
+     "k": "p",
+     "x": "1830*2440mm, 2134/2250*3300/3660mm"
+    },
+    {
+     "k": "p",
+     "x": "Color:"
+    },
+    {
+     "k": "p",
+     "x": "White, Red, Black, Standard RAL and PANTONG color"
+    },
+    {
+     "k": "p",
+     "x": "Avaliable in 8mm / 10mm / 12mm depending on the requirements of the shower door"
+    },
+    {
+     "k": "p",
+     "x": "Features of our Frameless Shower doors"
+    },
+    {
+     "k": "li",
+     "x": "Toughened / Heat Strengthened to highest Standards"
+    },
+    {
+     "k": "li",
+     "x": "All Edge work is Machined and Polished as Standard"
+    },
+    {
+     "k": "li",
+     "x": "All Required Fittings can be supplied"
+    },
+    {
+     "k": "li",
+     "x": "Maximum Dimensions – 2240mm x 3200mm"
+    },
+    {
+     "k": "li",
+     "x": "Machined Cutouts and Notches to allow for Hinges, Handles, etc"
+    },
+    {
+     "k": "li",
+     "x": "Available in Clear, Frosted, Bronze / Grey Tints or decorative laminated films"
+    },
+    {
+     "k": "p",
+     "x": "Templating& Fitting"
+    },
+    {
+     "k": "p",
+     "x": "We offer our templating and fitting service all around Lagos and its surrounding areas also following the Lagos Island by Eko Atlantic (beside our corporate office), this is a particularly useful service if the shower is of a complex design or requires fixing hardware."
+    },
+    {
+     "k": "p",
+     "x": "Safety and Quality"
+    },
+    {
+     "k": "p",
+     "x": "To ensure Safety, all of the glass we supply is Toughened to highest Standards with a smooth Polished Finish on all of the edge work as standard."
+    },
+    {
+     "k": "p",
+     "x": "The Nigeria’s First Online Glass Service;Whether your project is big or small, we provide exceptional service for all of our clients. Here at NFOglass, we want you to have a positive experience with us. This is why we will follow up any bespoke orders with a phone call, just to make sure that we get everything spot on."
+    },
+    {
+     "k": "p",
+     "x": "From design, to creation, to delivery and then installation, our focus is on ensuring this is a stress-free, exciting process for you that achieves your ideal end result."
+    },
+    {
+     "k": "p",
+     "x": "Call NFO Glass today on 08094560350. Speak to one of our exceptional staff members to begin your order."
+    },
+    {
+     "k": "p",
+     "x": "Online Ordering Available"
+    },
+    {
+     "k": "p",
+     "x": "Order from our Online Shop, delivered to your door."
+    }
+   ]
+  },
+  {
+   "slug": "custom-glass-projects",
+   "title": "Custom Glass Projects",
+   "img": "towers",
+   "blocks": []
+  },
+  {
+   "slug": "fireplace-glass",
+   "title": "Fireplace Glass",
+   "img": "dusk",
+   "blocks": [
+    {
+     "k": "p",
+     "x": "Most fireplaces are enclosed with tempered glass, which can tolerate temperatures up to 400-500 degrees Fahrenheit. These are often fireplaces where the doors are a safe distance from the flames."
+    }
+   ]
+  },
+  {
+   "slug": "woodstove-glass",
+   "title": "Woodstove Glass",
+   "img": "lowangle",
+   "blocks": [
+    {
+     "k": "p",
+     "x": "We specialize in providing wood stove glass doors tailored to your specifications. We use NeoCeram, a glass-ceramic, that can tolerate exceptionally high temperatures and maintains high thermal shock resistance."
+    }
+   ]
+  },
+  {
+   "slug": "sealed-window-units",
+   "title": "Sealed Window Units",
+   "img": "facade",
+   "blocks": [
+    {
+     "k": "p",
+     "x": "Whether you are home owner looking to put new windows in your home, or a contractor looking for large number of units, we have you covered."
+    }
+   ]
+  },
+  {
+   "slug": "deck-glass-panels",
+   "title": "Deck Glass Panels",
+   "img": "balustrade",
+   "blocks": []
+  }
+ ],
+ "types": [
+  {
+   "slug": "bespoke-coloured-splashbacks",
+   "group": "Speciality",
+   "title": "Bespoke Coloured Splashbacks",
+   "blocks": [
+    {
+     "k": "h",
+     "x": "PRODUCT DETAILS"
+    },
+    {
+     "k": "p",
+     "x": "Toughened glass splash backs aren’t just aesthetically pleasing they are also extremely effective for protecting your walls from staining and water damage. A glass splash back behind the hob or stove allows for easier cleaning of all foodstuffs that could potentially stain your bare walls. The properties of glass make it easily cleaned when marked with water, grease, foodstuffs and bacteria. With the glass being toughened it is both physically and thermally stronger than regular glass so that the heat of the hob and the stress of knocks are highly unlikely to make the glass shatter."
+    },
+    {
+     "k": "p",
+     "x": "We can manufacture coloured toughened splashbacks in any Dulux, RAL or BS Colours. Perfect for usage as kitchen splashbacks, worktops (countertops), Wall panels, Stairs, and Windowsills."
+    },
+    {
+     "k": "p",
+     "x": "You can purchase your painted splashbacks online using the link below."
+    }
+   ]
+  },
+  {
+   "slug": "double-glazing/insulated-glass",
+   "group": "Double Glazing",
+   "title": "Insulated glass",
+   "blocks": [
+    {
+     "k": "h",
+     "x": "PRODUCT DETAILS"
+    },
+    {
+     "k": "p",
+     "x": "We supply hermetically sealed double glazed units for domestic and commercial applications from a wide range of glass types, most of which are held on stock."
+    },
+    {
+     "k": "p",
+     "x": "Two sheets of glass are held in a metal frame with a space filled with dry air or other gas between them, forming a hermetically sealed unit with heightened thermal and acoustic insulation."
+    },
+    {
+     "k": "p",
+     "x": "This can either be ordinary float glass or Toughened glass"
+    }
+   ]
+  },
+  {
+   "slug": "fire-glass/fire-glass",
+   "group": "Fire Glass",
+   "title": "Fire Glass",
+   "blocks": [
+    {
+     "k": "h",
+     "x": "PRODUCT DETAILS"
+    },
+    {
+     "k": "p",
+     "x": "Fire glass is far superior to conventional glasses for use in fire resistant glazing. The secret lies in the material and the manufacturing process used. Together, both guarantee outstanding qualities – in terms of both building physics and appearance."
+    },
+    {
+     "k": "p",
+     "x": "In the event of a fire, this ensures life-saving viewing and makes it much easier to evacuate the building safely. Excellent color rendition and high transmission in the visible and UV light ranges also ensure that safety is achieved without having to compromise in respect to aesthetics."
+    }
+   ]
+  },
+  {
+   "slug": "fire-glass/georgian-wire-glass",
+   "group": "Fire Glass",
+   "title": "Georgian Wire Glass",
+   "blocks": [
+    {
+     "k": "h",
+     "x": "PRODUCT DETAILS"
+    },
+    {
+     "k": "p",
+     "x": "Georgian Wire Cast glass is an Obscure rolled patterned glass containing 0.5mm steel mesh. Georgian Wire Plate is a clear glass that contains a 0.5mm steel mesh. The steel mesh is embedded INTO the glass during the molten stage of manufacture. It can be laminated into other glass."
+    },
+    {
+     "k": "p",
+     "x": "Benefits:"
+    },
+    {
+     "k": "p",
+     "x": "Offers more security than non-wired glass"
+    },
+    {
+     "k": "p",
+     "x": "Has a fire rating of 60 minutes when glazed into a fire door."
+    },
+    {
+     "k": "p",
+     "x": "Applications:"
+    },
+    {
+     "k": "p",
+     "x": "Used in fire doors, partitions and windows in a wide range of buildings from schools to offices where safety glass is not a requirement."
+    },
+    {
+     "k": "p",
+     "x": "A fire integrity product, it will restrict the spread of flames and hot gasses."
+    },
+    {
+     "k": "p",
+     "x": "Available in either clear or obscure textured versions."
+    },
+    {
+     "k": "p",
+     "x": "Max dimensions in one piece 3210 x 2250 mm."
+    }
+   ]
+  },
+  {
+   "slug": "fittings-accesories",
+   "group": "Speciality",
+   "title": "Fittings & Accesories",
+   "blocks": [
+    {
+     "k": "p",
+     "x": "Glass"
+    },
+    {
+     "k": "p",
+     "x": "Fittings"
+    },
+    {
+     "k": "p",
+     "x": "Misc"
+    },
+    {
+     "k": "p",
+     "x": "Toughened glass : the glass is raised to softening temperature (650°C) and is then cooled suddenly. Toughened glass is also a type of safety glass, five times stronger than normal glass."
+    },
+    {
+     "k": "p",
+     "x": "hinges"
+    },
+    {
+     "k": "p",
+     "x": "Mirrors / Splashback glass : Mirrors, Bespoke Coloured Splashbacks, Decorative laminating and Sandblasted designs"
+    },
+    {
+     "k": "p",
+     "x": "brackets"
+    },
+    {
+     "k": "p",
+     "x": "Laminated glass : two or more sheets of glass are placed together with one or more layers of PVB (polyvinyl butyral, a type of plastic) between them. Laminated glass is a type of safety glass."
+    },
+    {
+     "k": "p",
+     "x": "door handles and knobs"
+    },
+    {
+     "k": "p",
+     "x": "Dual Pane/Insulated Unit: This product consists of two panes of glass separated by a spacer. The space between the two panes of glass is filled with air, forming a hermetically sealed unit with heightened thermal and acoustic insulation."
+    },
+    {
+     "k": "p",
+     "x": "glazing channel"
+    },
+    {
+     "k": "p",
+     "x": "balustrade fittings"
+    },
+    {
+     "k": "p",
+     "x": "tie bars"
+    },
+    {
+     "k": "p",
+     "x": "Coated glass : Very thin, practically invisible layers of metal oxides are deposited on the glass to give it heightened insulation against heat and/or cold."
+    },
+    {
+     "k": "p",
+     "x": "glass joint options"
+    },
+    {
+     "k": "p",
+     "x": "Fire glass : Fire resistant glass is specifically designed to provide a consistent, high level of protection against fire, together with the full range of properties associated with glass. We have a wide range of fire glass types, offering increasing levels of protection. Measured in defined time periods (30, 60, 90, 120 and 180 minutes)"
+    }
+   ]
+  },
+  {
+   "slug": "glass-industry-terms",
+   "group": "Speciality",
+   "title": "Glass Industry Terms",
+   "blocks": [
+    {
+     "k": "p",
+     "x": "A Acoustics – The science of sound and sound control."
+    },
+    {
+     "k": "p",
+     "x": "Adhesion – The property of a coating or sealant to bond to the surface to which it is applied."
+    },
+    {
+     "k": "p",
+     "x": "Adhesive Failure – Loss of bond of a coating or sealant from the surface to which it was applied."
+    },
+    {
+     "k": "p",
+     "x": "Air Infiltration – The amount of air leaking in and out of a building through cracks in walls, windows and doors."
+    },
+    {
+     "k": "p",
+     "x": "Annealing – In the manufacturing of float glass, it is the process of controlled cooling done in a lehr to prevent residual stresses in the glass. Re-annealing is the process of removing objectionable stresses in glass by re-heating to a suitable temperature followed by controlled cooling."
+    },
+    {
+     "k": "p",
+     "x": "Annealing Lehr – An in-line, controlled heating/cooling apparatus located after the tin bath and before the cooling conveyor of a float glass production line. Its purpose is to relieve induced stress from the flat glass product to allow normal cold end processing."
+    },
+    {
+     "k": "p",
+     "x": "Anti-Walk Blocks – Elastomeric blocks that limits lateral glass movement in the glazing channel, which may result from thermal, seismic, wind load effects, building movement, and other forces that may apply."
+    },
+    {
+     "k": "p",
+     "x": "Aspect Ratio – The quotient of the long side of a glazing lite over the short side of that lite."
+    },
+    {
+     "k": "p",
+     "x": "Autoclave – A vessel that employs high-pressure and heat. In the glass industry, used to produce a bond between glass and PVB or urethane sheet, creating a laminated glass product."
+    },
+    {
+     "k": "p",
+     "x": "B Backer Rod – A polyethylene or polyurethane foam material installed under compression and used to control sealant joint depth, provide a surface for sealant tooling, serve as a bond breaker to prevent three-sided adhesion, and provide an hour-glass contour of the finished bead."
+    },
+    {
+     "k": "p",
+     "x": "Back Putty (See Bed or Bedding)"
+    },
+    {
+     "k": "p",
+     "x": "Back-up – A material placed into a joint to control the depth of the sealant and to prevent adhesion at the base of the sealant bead."
+    },
+    {
+     "k": "p",
+     "x": "Bead – An applied sealant in a joint irrespective of the method of application, such as caulking bead, glazing bead, etc. Also a molding or stop used to hold glass or panels in position."
+    },
+    {
+     "k": "p",
+     "x": "Bed or Bedding – In glazing, the bead of compound or sealant applied between a lite of glass or panel and the stationary stop or sight bar of the sash or frame. It is usually the first bead of compound or sealant to be applied when setting glass or panels."
+    },
+    {
+     "k": "p",
+     "x": "Bedding of Stop – In glazing, the application of compound or sealant at the base of the channel, just before the stop is placed in position, or buttered (see Buttering) on the inside face of the stop."
+    },
+    {
+     "k": "p",
+     "x": "Bent Glass – Flat glass that has been shaped while hot into curved shapes."
+    },
+    {
+     "k": "p",
+     "x": "Bevel of Compound Bead – In glazing, a bead of compound applied to provide a slanted top surface so that water will drain away from the glass or panel."
+    },
+    {
+     "k": "p",
+     "x": "Beveling – The process of edge finishing flat glass to a bevel angle."
+    },
+    {
+     "k": "p",
+     "x": "Bite – The dimension by which the framing system overlaps the edge of the glazing infill."
+    },
+    {
+     "k": "p",
+     "x": "Bleeding – A migration of a liquid to the surface of a component or into/onto an adjacent material."
+    },
+    {
+     "k": "p",
+     "x": "Blisters – A profusion of bubbles in a coating film that form during the heat-treating process and remain after the film solidifies."
+    },
+    {
+     "k": "p",
+     "x": "Block – Rectangular, cured sections of EPDM, neoprene, silicone or other suitable material, used to position the glass product in the glazing channel."
+    },
+    {
+     "k": "p",
+     "x": "Bow (and Warp) – A curve, bend or other deviation from flatness in glass."
+    },
+    {
+     "k": "p",
+     "x": "Breather Tube Units (See also Capillary Tube Units) – An insulating glass unit with a tube and/or hole factory-placed into the unit’s spacer to accommodate pressure differences encountered in shipping due to change in elevation. The tube and/or hole are to be properly sealed on the jobsite prior to unit installation. Consult IG unit fabricator."
+    },
+    {
+     "k": "p",
+     "x": "Bubbles – In laminated glass, a gas pocket in the interlayer material or between the glass and the interlayer. In float glass, a gaseous inclusion greater than 1/32″ (.8 mm) in diameter."
+    },
+    {
+     "k": "p",
+     "x": "Bubbling – Open or closed pockets in a sealant caused by release, production, or expansion of gasses."
+    },
+    {
+     "k": "p",
+     "x": "Bulb Edge – In float glass manufacture, the extreme lateral edge of the ribbon as drawn."
+    },
+    {
+     "k": "p",
+     "x": "Bullet Resistant Glass – A multiple lamination of glass or glass and plastic that is designed to resist penetration from medium-to-super-power small arms and high-power rifles."
+    },
+    {
+     "k": "p",
+     "x": "Buttering – Application of sealant or compound to the flat surface of some member before placing the member in position, such as the buttering of a removable stop before fastening the stop in place."
+    },
+    {
+     "k": "p",
+     "x": "Butt Glazing – The installation of glass products where the vertical glass edges are without structural supporting mullions."
+    },
+    {
+     "k": "p",
+     "x": "C Capillary Tube Units (See also Breather Tube Units) – An insulating glass unit with a very small inside diameter metal tube of specific length factory-placed into the unit’s spacer to accommodate pressure differences encountered in shipping because of substantial changes in elevation and the pressure differences encountered daily after installation. Capillary tubes may or may not require sealing prior to installation. Consult IG unit fabricator."
+    },
+    {
+     "k": "p",
+     "x": "Caulk – (v) The application of a sealant to a joint, crack or crevice. (n) A compound used for sealing that has minimum joint movement capability; sometimes called low performance sealant."
+    },
+    {
+     "k": "p",
+     "x": "Channel (See Pocket)"
+    },
+    {
+     "k": "p",
+     "x": "Channel Glazing – The installation of glass products into U-shaped glazing channels. The channels may have fixed stops; however, at least one glazing stop on one edge must be removable."
+    },
+    {
+     "k": "p",
+     "x": "Channel Width – The distance between opposing glazing stops."
+    },
+    {
+     "k": "p",
+     "x": "Checks – Very small cracks in flat glass, usually at the edge."
+    },
+    {
+     "k": "p",
+     "x": "Chemically Strengthened Glass – Glass that has been strengthened by ion-exchange to produce a compressive stress layer at the treated surface."
+    },
+    {
+     "k": "p",
+     "x": "Chipped Edge – An imperfection due to breakage of a small fragment from the cut edge of the glass. Generally this is not serious except in heat absorbing glass."
+    },
+    {
+     "k": "p",
+     "x": "Clips – Wire spring devices used to hold glass in rabbeted sash, without stops, and face glazed."
+    },
+    {
+     "k": "p",
+     "x": "Cohesive Failure – Internal splitting of a compound resulting from over-stressing of the compound."
+    },
+    {
+     "k": "p",
+     "x": "Compatibility – The ability of two or more materials to exist in close and permanent association for an indefinite period with no adverse effect of one on the other."
+    },
+    {
+     "k": "p",
+     "x": "Compound – A chemical formulation of ingredients used to produce a caulking, elastomeric joint sealant, etc."
+    },
+    {
+     "k": "p",
+     "x": "Compression Gasket – A gasket designed to function under compression."
+    },
+    {
+     "k": "p",
+     "x": "Compression Set – The permanent deformation of a material after removal of the compressive stress."
+    },
+    {
+     "k": "p",
+     "x": "Condensation – The appearance of moisture (water vapor) on the surface of an object caused by warm moist air coming into contact with a colder object."
+    },
+    {
+     "k": "p",
+     "x": "Consistency – Degree of softness or firmness of a compound as supplied in the container and varying according to method of application, such as gun, knife, tool, etc."
+    },
+    {
+     "k": "p",
+     "x": "Coolness Index (See Luminous Efficacy)"
+    },
+    {
+     "k": "p",
+     "x": "Crush – A lightly pitted area on glass resulting in a dull gray appearance."
+    },
+    {
+     "k": "p",
+     "x": "Cullet – Broken glass, excess glass from a previous melt or edges trimmed off when cutting glass to size. Cullet is an essential ingredient in the raw batch in glass-making because it facilitates melting."
+    },
+    {
+     "k": "p",
+     "x": "Curing Agent – One part of a multi-part sealant which when added to the base will cause the base to change its physical state by chemical reaction between the two parts."
+    },
+    {
+     "k": "p",
+     "x": "Cut Sizes – Glass cut to specified width and length."
+    },
+    {
+     "k": "p",
+     "x": "Cutter – Tool used in cutting glass."
+    },
+    {
+     "k": "p",
+     "x": "Cutting – Scoring glass with a diamond, steel wheel or other hard alloy wheel and breaking it along the score. Other methods of cutting glass include water jet and laser."
+    },
+    {
+     "k": "p",
+     "x": "D Deflection (framing member) – The amount of bending movement of any part of a structural member perpendicular to the axis of the member under an applied load."
+    },
+    {
+     "k": "p",
+     "x": "Deflection (center of glass) – The amount of bending movement of the center of a glass lite perpendicular to the plane of the glass surface under an applied load."
+    },
+    {
+     "k": "p",
+     "x": "Design Pressure – Specified pressure a product is designed to withstand."
+    },
+    {
+     "k": "p",
+     "x": "Diffusing – Scattering, dispersing, as the tendency to eliminate a direct beam of light."
+    },
+    {
+     "k": "p",
+     "x": "Digs – Deep, short scratches."
+    },
+    {
+     "k": "p",
+     "x": "Distortion – Alteration of viewed images caused by variations in glass flatness or inhomogeneous portions within the glass. An inherent characteristic of heat-treated glass."
+    },
+    {
+     "k": "p",
+     "x": "Double Glazing – In general, any use of two lites of glass, separated by an air space, within an opening, to improve insulation against heat transfer and/or sound transmission. In insulating glass units the air between the glass sheets is thoroughly dried and the space is sealed, eliminating possible condensation and providing superior insulating properties."
+    },
+    {
+     "k": "p",
+     "x": "Double Strength – In float glass, approximately 1/8″ (3 mm) thick."
+    },
+    {
+     "k": "p",
+     "x": "Dry Glazing – Also called compression glazing, a term used to describe various means of sealing monolithic and insulating glass in the supporting framing system with synthetic rubber and other elastomeric gasket materials."
+    },
+    {
+     "k": "p",
+     "x": "Dry Seal – Accomplishment of weather seal between glass and sash by use of strips or gaskets of Neoprene, EPDM, silicone or other flexible material. A dry seal may not be completely watertight."
+    },
+    {
+     "k": "p",
+     "x": "Durometer – The measurement of hardness of a material. (See also Shore A Hardness) A gauge to measure the hardness of an elastomeric material."
+    },
+    {
+     "k": "p",
+     "x": "E EPDM – Ethylene Propylene Diene Monomer, a synthetic rubber."
+    },
+    {
+     "k": "p",
+     "x": "Edge Block (See Anti-walk Block)"
+    },
+    {
+     "k": "p",
+     "x": "Edge Clearance – Nominal spacing between the edge of the glass product and the bottom of the glazing pocket (channel)"
+    },
+    {
+     "k": "p",
+     "x": "Edging – Grinding the edge of flat glass to a desired shape or finish."
+    },
+    {
+     "k": "p",
+     "x": "Elastomer – An elastic, rubber-like substance, such as natural or synthetic rubber."
+    },
+    {
+     "k": "p",
+     "x": "Elastomeric – (adj) Having the property of returning to its original shape and position after removal of load. (n) An elastic rubber like substance."
+    },
+    {
+     "k": "p",
+     "x": "Emissivity – The measure of a surface’s ability to emit long-wave infrared radiation."
+    },
+    {
+     "k": "p",
+     "x": "Etch – To alter the surface of glass with hydrofluoric acid or other caustic agents. Permanent etching of glass may occur from alkali and other runoff from surrounding building materials."
+    },
+    {
+     "k": "p",
+     "x": "Exterior Glazed – Glazing infills set from the exterior of the building."
+    },
+    {
+     "k": "p",
+     "x": "Exterior Stop – The molding or bead that holds the lite or panel in place when it is on the exterior side of the lite or panel."
+    },
+    {
+     "k": "p",
+     "x": "F Facade (face) – The whole exterior side of a building that can be seen at one view; strictly speaking, the principal front. Commonly used as reference to the exterior skin of a building."
+    },
+    {
+     "k": "p",
+     "x": "Face Glazing – A system having a triangular bead of compound applied with a putty knife, after bedding, setting and clipping the glazing infill in place on a rabbetted sash."
+    },
+    {
+     "k": "p",
+     "x": "Fenestration – Any glazed panel, window, door, curtain wall or skylight unit on the exterior of a building."
+    },
+    {
+     "k": "p",
+     "x": "Figured Glass (See Patterned Glass)"
+    },
+    {
+     "k": "p",
+     "x": "Fillet Bead – Caulking or sealant placed in such a manner that it forms an angle between the materials being caulked."
+    },
+    {
+     "k": "p",
+     "x": "Fire-Polish – To make glass smooth or glossy by the action of fire or intense heat."
+    },
+    {
+     "k": "p",
+     "x": "Fire-Protection Rating – The period of time that an opening protective assembly will maintain the ability to confine a fire as determined by tests – NFPA 252/ NFPA 257/UL 9/UL 10c/ASTM E 2010/ASTM E 2074."
+    },
+    {
+     "k": "p",
+     "x": "Fire-Resistance – That property of materials or their assemblies that prevents or retards the passage of excessive heat, hot gases or flames under conditions of use."
+    },
+    {
+     "k": "p",
+     "x": "Fire-Resistance Rating – The period of time a building element, component or assembly maintains the ability to confine a fire, continues to perform a given structural function, or both, as determined by tests – NFPA 251/ASTM E 119/UL 263 (wall assemblies)."
+    },
+    {
+     "k": "p",
+     "x": "Flare – A protrusion on the edge of a lite of glass."
+    },
+    {
+     "k": "p",
+     "x": "Flat Glass – A general term that describes float glass, sheet glass, plate glass and rolled glass."
+    },
+    {
+     "k": "p",
+     "x": "Float Glass – Glass formed on a bath of molten tin. The surface in contact with the tin is known as the tin surface or tin side. The top surface is known as the atmosphere surface or air side."
+    },
+    {
+     "k": "p",
+     "x": "Flush Glazing (Pocket Glazing) – The setting of a lite of glass or panel into a four-sided sash or frame opening containing a recessed “U” shaped channel without removable stop on three sides of the sash or frame and one channel with a removable stop along the fourth side."
+    },
+    {
+     "k": "p",
+     "x": "Frosted Finish – A surface treatment for glass, consisting of an acid etching of one or both surfaces that diffuses transmitted light and reduces glare."
+    },
+    {
+     "k": "p",
+     "x": "Fully Tempered Glass – Flat or bent glass that has been heat-treated to have either a minimum surface compression of 10,000 psi (69 MPa) or an edge compression not less than 9,700 psi (67 MPa) in accordance with the requirements of ASTM C 1048, kind FT or meet the requirements of ANSI Z97.1 or CPSC 16 CFR 1201. Outside of North America, sometimes called “toughened glass.”"
+    },
+    {
+     "k": "p",
+     "x": "G Gas-Filled Units – Insulating glass units with a gas other than air in the air space to decrease the unit’s thermal conductivity (U-value) or to increase the unit’s sound insulating value."
+    },
+    {
+     "k": "p",
+     "x": "Gaskets – Pre-formed shapes, such as strips, grommets, etc., of rubber or rubber-like composition, used to fill and seal a joint or opening either alone or in conjunction with a supplemental application of a sealant."
+    },
+    {
+     "k": "p",
+     "x": "Girth – In bent glass, the distance around the concave or convex surface measured perpendicular to the height, including any flats."
+    },
+    {
+     "k": "p",
+     "x": "Glass – A hard brittle substance, usually transparent, made by fusing silicates, under high temperatures, with soda, lime, etc."
+    },
+    {
+     "k": "p",
+     "x": "Glass Clad Polycarbonate – One or more lites of flat glass bonded with an aliphatic urethane interlayer to one or more sheets of extruded polycarbonate in a pressure/temperature/vacuum laminating process."
+    },
+    {
+     "k": "p",
+     "x": "Glass Fines – Minute glass particles typically resulting from glass fabrication processes (i.e. cutting, grinding, polishing, drilling, edging, etc.)"
+    },
+    {
+     "k": "p",
+     "x": "Glass Quality (Flat) – Defined by ASTM C 1036 on the basis of end use and allowable blemishes."
+    },
+    {
+     "k": "p",
+     "x": "Glazing – (n) A generic term used to describe an infill material such as glass, panels, etc. (v) The process of installing an infill material into a prepared opening in windows, door panels, partitions, etc."
+    },
+    {
+     "k": "p",
+     "x": "Glazing Bead – A strip surrounding the edge of the glass in a window or door, which holds the glass in place."
+    },
+    {
+     "k": "p",
+     "x": "Glazing Channel – A three-sided, U-shaped sash detail into which a glass product is installed and retained."
+    },
+    {
+     "k": "p",
+     "x": "Gun Consistency – Sealant formulated in a degree of viscosity suitable for application through the nozzle of a caulking gun."
+    },
+    {
+     "k": "p",
+     "x": "H Heat-Absorbing Glass – Glass that absorbs an appreciable amount of solar energy."
+    },
+    {
+     "k": "p",
+     "x": "Heat-Resisting Glass – Glass able to withstand high thermal shock, generally because of a low coefficient of expansion."
+    },
+    {
+     "k": "p",
+     "x": "Heat-Strengthened Glass – Flat or bent glass that has been heat-treated to have a surface compression between 3,500 and 7,500 psi (24 to 52 MPa) and meet the requirements of ASTM C 1048, kind HS. Heat-strengthened glass is not a safety glazing material and will not meet the requirements of ANSI Z97.1 or CPSC 16 CFR 1201."
+    },
+    {
+     "k": "p",
+     "x": "Heat-Treated – Term used for both fully tempered glass and heat-strengthened glass."
+    },
+    {
+     "k": "p",
+     "x": "Heel Bead – Sealant applied at the base of a channel, after setting the lite or panel and before the removable stop is installed; one of its purposes being to prevent leakage past the stop."
+    },
+    {
+     "k": "p",
+     "x": "High-Transmission Glass – Glass, which transmits an exceptionally high percentage of visible light."
+    },
+    {
+     "k": "p",
+     "x": "I Insulating Glass Unit – Two or more lites of glass spaced apart and hermetically sealed to form a single-glazed unit with an air space between each lite. (Commonly called IG units.)"
+    },
+    {
+     "k": "p",
+     "x": "Interior Glazed – Glazing infills set from the interior of the building."
+    },
+    {
+     "k": "p",
+     "x": "Interior Stop – The removable molding or bead that holds the lite in place when it is on the interior side of the lite."
+    },
+    {
+     "k": "p",
+     "x": "Interlayer – Any material used to bond two lites of glass and/or plastic together to form a laminate."
+    },
+    {
+     "k": "p",
+     "x": "J Jambs – The vertical frame members at the perimeter of the opening."
+    },
+    {
+     "k": "p",
+     "x": "Joint – The space or opening between two or more adjoining surfaces."
+    },
+    {
+     "k": "p",
+     "x": "K Kink – An abrupt deviation from a flat plane or the normal contours of bow and warp, and most commonly found near the edge of a piece of heat-treated glass."
+    },
+    {
+     "k": "p",
+     "x": "Knife Consistency – Compound formulated in a degree of firmness suitable for application with a putty knife such as used for face glazing and other sealant applications."
+    },
+    {
+     "k": "p",
+     "x": "Knocked Down (KD) – Fabricated framing components shipped loose for assembly at another location."
+    },
+    {
+     "k": "p",
+     "x": "L Laminated Glass – Two or more lites of glass permanently bonded together with one or more interlayers."
+    },
+    {
+     "k": "p",
+     "x": "Laminated Plastics (Plastic Laminates) – Two or more lites (or sheets) of polycarbonate (or acrylic) with an aliphatic urethane interlayer between polycarbonate or acrylic bonded together under heat and pressure."
+    },
+    {
+     "k": "p",
+     "x": "Lehr – A long, tunnel-shaped oven for annealing glass, usually by a continuous process."
+    },
+    {
+     "k": "p",
+     "x": "Lite – Another term for a pane of glass. Sometimes spelled “light” in the industry literature, but spelled “lite” in this text to avoid confusion with light as in “visible light”."
+    },
+    {
+     "k": "p",
+     "x": "Live Load – Loads produced by the use and occupancy of the building or other structure and do not include construction or environmental loads such as wind load, snow load, ice load, rain load, seismic load or dead load."
+    },
+    {
+     "k": "p",
+     "x": "Low-emissivity (or low-e) – A low rate of emitting (radiating) absorbed radiant energy. The radiant energy (heat), i.e. long wave infrared, is in effect, reradiated back toward its source."
+    },
+    {
+     "k": "p",
+     "x": "Luminous Efficacy (Light-to-Solar Gain Ratio) – The visible transmittance of a glazing system divided by the solar heat gain coefficient (or shading coefficient). This ratio is helpful in selecting glazing products for different climates in terms of those that transmit more heat than light and those that transmit more light than heat."
+    },
+    {
+     "k": "p",
+     "x": "M Mastic – Descriptive of heavy-consistency compounds that may remain adhesive and pliable with age."
+    },
+    {
+     "k": "p",
+     "x": "Microscopic Surface Particles – Any glass fines, debris, dust, grit, refractory particles, etc., that are invisible to the naked eye, and that adhere to one or both glass surfaces during the heat-treating process."
+    },
+    {
+     "k": "p",
+     "x": "Migration – Spreading or creeping of a constituent of a compound onto/into adjacent surfaces. See bleeding."
+    },
+    {
+     "k": "p",
+     "x": "Modulus – Stress at a given strain. Also tensile strength at a given elongation."
+    },
+    {
+     "k": "p",
+     "x": "Mullion – A horizontal or vertical member that supports and holds such items as panels, glass, sash, or sections of a curtain wall."
+    },
+    {
+     "k": "p",
+     "x": "Multiple-Glazed Units – Insulating glass units with three or more lites of glass."
+    },
+    {
+     "k": "p",
+     "x": "Muntins – Horizontal or vertical bars that divide the sash frame into smaller lites of glass. Muntins are smaller in dimensions and weight than mullions."
+    },
+    {
+     "k": "p",
+     "x": "N Neoprene – A synthetic rubber having physical properties closely resembling those of natural rubber. It is made by polymerizing chloroprenes, and the latter is produced from acetylene and hydrogen chloride."
+    },
+    {
+     "k": "p",
+     "x": "Non-Drying (Non-Curing) – A sealant that does not set up or cure."
+    },
+    {
+     "k": "p",
+     "x": "Non-Sag – A sealant formulation having a consistency that will permit application in vertical joints without appreciable sagging or slumping. A performance characteristic, which allows the sealant to be installed in a sloped or vertical joint application without appreciable sagging or slumping."
+    },
+    {
+     "k": "p",
+     "x": "Non-Skinning – Descriptive of a product that does not form a surface skin."
+    },
+    {
+     "k": "p",
+     "x": "Non-Staining – Characteristic of a compound, which will not stain a surface."
+    },
+    {
+     "k": "p",
+     "x": "Nozzle – The tubular tip of a caulking gun through which the compound is extruded."
+    },
+    {
+     "k": "p",
+     "x": "O OITC (Outside-Inside Transmission Class) – A rating used to classify the performance of glazing in exterior applications. (For more information see ASTM E 1332 and ASTM E 1425.)"
+    },
+    {
+     "k": "p",
+     "x": "Obscure Glass (See Patterned Glass)"
+    },
+    {
+     "k": "p",
+     "x": "Organic – Any compound which consists of carbon and hydrogen with a restricted number of other elements, such as oxygen, nitrogen, sulphur, phosphorous, chlorine, etc."
+    },
+    {
+     "k": "p",
+     "x": "P Patterned Glass – One type of rolled glass having a pattern impressed on one or both sides. Used extensively for light control, bath enclosures and decorative glazing. Sometimes called “rolled,” “figured” or “obscure” glass."
+    },
+    {
+     "k": "p",
+     "x": "Permanent Set – The amount by which a material fails to return to its original dimensions after being deformed by an applied force or load."
+    },
+    {
+     "k": "p",
+     "x": "Pocket (Channel) – A three-sided, U-shaped opening in a sash or frame to receive glazing infill. Contrasted to a rabbet, which is a two-sided, L-shaped section, as with face glazed window sash."
+    },
+    {
+     "k": "p",
+     "x": "Pocket (Channel) Depth – The inside dimension from the bottom of the pocket to the top. Pocket depth equals the bite plus the edge clearance."
+    },
+    {
+     "k": "p",
+     "x": "Pocket Glazing (See Flush Glazing)"
+    },
+    {
+     "k": "p",
+     "x": "Pocket (Channel) Width – The measurement between stationary stops (or stationary stop and removable stop) in a U-shaped channel."
+    },
+    {
+     "k": "p",
+     "x": "Points – Thin, flat, triangular or diamond shaped pieces of zinc used to hold glass in wood sash by driving them into the wood."
+    },
+    {
+     "k": "p",
+     "x": "Polariscope – A device for examining the degree of strain in a sample of glass."
+    },
+    {
+     "k": "p",
+     "x": "Polished Wired Glass – Wired glass that has been ground and polished on both surfaces."
+    },
+    {
+     "k": "p",
+     "x": "Polyisobutylene – Typically the primary seal in a dual seal IG unit and the key component in restricting moisture vapor transmission."
+    },
+    {
+     "k": "p",
+     "x": "Polymer – A chemical structure consisting of long chains of molecular units."
+    },
+    {
+     "k": "p",
+     "x": "Polysulfide Sealant – Polysulfide liquid polymer sealant, which are mercaptan terminated, long chain aliphatic polymers containing disulfide linkages. They can be converted to rubbers at room temperature without shrinkage upon addition of a curing agent."
+    },
+    {
+     "k": "p",
+     "x": "Polyurethane Sealant – An organic compound formed by the reaction of a glycol with an isocyanate."
+    },
+    {
+     "k": "p",
+     "x": "Polyvinyl Chloride (PVC) – Polymer formed by polymerization of vinyl chloride monomer. Sometimes called vinyl."
+    },
+    {
+     "k": "p",
+     "x": "Pot Life – The time interval following the addition of an accelerator before a chemically curing material will become too viscous to apply satisfactorily."
+    },
+    {
+     "k": "p",
+     "x": "Pre-Shimmed Tape Sealant – A sealant having a pre-formed shape containing solids or discrete particles that limit its deformation under compression."
+    },
+    {
+     "k": "p",
+     "x": "Primer – A coating specifically designed to enhance the adhesion of sealant systems to certain surfaces, to form a barrier to prevent migration of components, or to seal a porous substrate."
+    },
+    {
+     "k": "p",
+     "x": "Priming – Sealing of a porous surface so that compound will not stain, lose elasticity, shrink excessively, etc., because of loss of oil or vehicle into the surround. A sealant primer or surface conditioner may be used to promote adhesion of a curing type sealant to certain surfaces."
+    },
+    {
+     "k": "p",
+     "x": "Pyrolytic Deposition – A process for applying a thin metallic coating to the surface of flat glass during the float glass manufacturing process."
+    }
+   ]
+  },
+  {
+   "slug": "insulated-glass/colored-glass",
+   "group": "Insulated Glass",
+   "title": "Colored Glass",
+   "blocks": [
+    {
+     "k": "h",
+     "x": "PRODUCT DETAILS"
+    },
+    {
+     "k": "p",
+     "x": "Coated glass is coloured during production. The most common colours: brown (bronze), grey, green and blue, black. Used to reduce Ultra Violet rays from the sun. Thickness from 4 to 10 mm."
+    },
+    {
+     "k": "p",
+     "x": "How it Works"
+    },
+    {
+     "k": "p",
+     "x": "The glass in your windows absorbs heat then radiates it again on the colder, outside, surface. Pilkington K Glass has a so-called low emissivity coating which is positioned on surface 3 (counting from the outside) of the Insulating Glass Unit (IGU)."
+    },
+    {
+     "k": "p",
+     "x": "The low emissivity coating is a poor radiator of heat. So the heat absorbed by the coated glass does not travel across the air gap to the outer pane and the cold outside world. Instead the coating reflects the heat back into the room."
+    },
+    {
+     "k": "p",
+     "x": "Windows incorporating Pilkington K Glass allow heat from the sun through and keep heat inside, making it easier and more cost effective to keep buildings warm."
+    }
+   ]
+  },
+  {
+   "slug": "laminated-glass/clear-laminated-glass",
+   "group": "Laminated Glass",
+   "title": "Clear Laminated Glass",
+   "blocks": [
+    {
+     "k": "h",
+     "x": "PRODUCT DETAILS"
+    },
+    {
+     "k": "p",
+     "x": "These products consists of 2 pieces of non-toughened glass laminated together with a very tough and durable plastic."
+    },
+    {
+     "k": "p",
+     "x": "When broken it will still remain integral due to the plastic between the glass, remaining safe even when broken."
+    },
+    {
+     "k": "p",
+     "x": "Although it will break or crack easier than toughened glass, it has a better security aspect as a much greater force is needed to break the plastic."
+    }
+   ]
+  },
+  {
+   "slug": "laminated-glass/clear-laminated-toughenedtempered-glass",
+   "group": "Laminated Glass",
+   "title": "Clear Laminated & Toughened/Tempered Glass",
+   "blocks": [
+    {
+     "k": "h",
+     "x": "PRODUCT DETAILS"
+    },
+    {
+     "k": "p",
+     "x": "The frequency that Toughened Laminated Glass is being specified is ever increasing due to the combined strength of both the Toughening process and the Laminating process."
+    },
+    {
+     "k": "p",
+     "x": "These products consists of 2 pieces of TOUGHENED glass laminated together with a very tough and durable plastic."
+    },
+    {
+     "k": "p",
+     "x": "As opposed to ordinary laminated glass the laminated &tempered glass provides some extra features to the safety of building glass as the glass provides a barrier which is very hard to penetrate. If one of the toughened glass panes does happen to break not only will there be no falling glass particles but the additional toughened glass pane and the interlayer will provide an extra barrier to prevent injury. Specifiers see this as a huge advantage when glass is being used for balustrades, flooring, canopies etc. where safety is paramount."
+    },
+    {
+     "k": "p",
+     "x": "You can purchase your laminated & toughened glass online using the link below."
+    },
+    {
+     "k": "p",
+     "x": "Coloured laminate interlayers are available upon request and we can also incorporate most dry & flat subtances inside of the interlayers to give bespoke designs."
+    }
+   ]
+  },
+  {
+   "slug": "mirror-and-splashback-glass/crackle-glass",
+   "group": "Mirror And Splashback Glass",
+   "title": "Crackle Glass",
+   "blocks": [
+    {
+     "k": "h",
+     "x": "PRODUCT DETAILS"
+    },
+    {
+     "k": "p",
+     "x": "Crackle Glass is made by laminating 3 toughened pieces together, the middle toughened piece is then shattered thus leaving the cracked ice effect sandwiched inside of the other 2 pieces of glass. This can also be made with mirror or a coloured glass backing offering an impressive focal point for any room."
+    },
+    {
+     "k": "p",
+     "x": "The wonderful reflective qualities of crackle glass can transform the smallest area and bring individuality to larger areas. Due to the makeup of crackle glass 12mm is the minimum thickness."
+    },
+    {
+     "k": "p",
+     "x": "Crackle glass is ideal for Table tops , Splashbacks, Worktops and Cladding. Please contact one of dedicated sales team for more information."
+    }
+   ]
+  },
+  {
+   "slug": "mirror-and-splashback-glass/decorative-laminating",
+   "group": "Mirror And Splashback Glass",
+   "title": "Decorative Laminating",
+   "blocks": [
+    {
+     "k": "h",
+     "x": "PRODUCT DETAILS"
+    },
+    {
+     "k": "p",
+     "x": "You can choose to encapsulate a diverse selection of materials and images in addition to linterlayer’s, for sound control, privacy and decorative effects."
+    },
+    {
+     "k": "p",
+     "x": "Patterned and tinted glasses can be laminated and materials such as film, wood, fabrics and metal can be bonded between the panes to create unique finishes."
+    },
+    {
+     "k": "p",
+     "x": "The potential applications for LamEX are vast and include:– Partitions, Balustrades, Shower Screens, Doors, Furniture, Stair Treads, Work Tops, Signage, Table Tops, Exhibition displays and Flooring."
+    },
+    {
+     "k": "p",
+     "x": "With such a breadth of designer finishes and materials available contact us with your requirements."
+    },
+    {
+     "k": "p",
+     "x": "Max dimensions in one piece 2250 x 3210 mm."
+    }
+   ]
+  },
+  {
+   "slug": "mirror-and-splashback-glass/sandblasttoughened-glass",
+   "group": "Mirror And Splashback Glass",
+   "title": "Sandblast Toughened Glass",
+   "blocks": [
+    {
+     "k": "h",
+     "x": "PRODUCT DETAILS"
+    },
+    {
+     "k": "p",
+     "x": "In order to create a unique piece of glass we can Sandblast any design you may require onto your bespoke piece of glass. Weather it be a company LOGO, house name/number, design or graphic sandblasting our in-house design team can assist you with a proofing service before you go ahead with your order."
+    },
+    {
+     "k": "p",
+     "x": "Sandblasted glass is ideal for partitions, shower screens, and balustrades."
+    }
+   ]
+  },
+  {
+   "slug": "security-glass/bbullet-resistant-glass",
+   "group": "Security Glass",
+   "title": "Bullet resistant Glass",
+   "blocks": [
+    {
+     "k": "h",
+     "x": "PRODUCT DETAILS"
+    },
+    {
+     "k": "p",
+     "x": "Bullet Resistant Glass is made through a process of laminating multiple layers of float glass, polyvinyl butyral (PVB) and polymer under heat and pressure. The resultant multi-layer product prevents penetration by absorbing and spreading the bullet impact force."
+    },
+    {
+     "k": "p",
+     "x": "Typical applications include banks, currency exchanges, police stations, embassies, military installations, prisons, detention centers, government offices, schools and VIP"
+    },
+    {
+     "k": "p",
+     "x": "MAKING A SELECTION"
+    },
+    {
+     "k": "p",
+     "x": "When selecting bullet resistant glass, there are several important criteria that must be reviewed."
+    },
+    {
+     "k": "p",
+     "x": "These are:"
+    },
+    {
+     "k": "li",
+     "x": "What is being protected?"
+    },
+    {
+     "k": "li",
+     "x": "Threat expertise?"
+    },
+    {
+     "k": "li",
+     "x": "Potentialweaponry?"
+    },
+    {
+     "k": "li",
+     "x": "Rear face splinter protection (spall)?"
+    },
+    {
+     "k": "p",
+     "x": "After making a balanced and judgment the specifier can review the tables in this brochure to help decide the ideal glass classification."
+    },
+    {
+     "k": "p",
+     "x": "CAN’T SHOOT by www.glass.com.ng has been tested to internationally recognized Standards at an accredited and independent test laboratory in NIGERIA."
+    },
+    {
+     "k": "p",
+     "x": "NFOGC produces a range of CAN’T-SHOOT Bullet-Resistant glasses to meet the requirements of:BS EN 1063 & BS 5051 Standards."
+    },
+    {
+     "k": "p",
+     "x": "NOTE: To read more about our bullet resistant glass, please download the brochure below."
+    }
+   ]
+  },
+  {
+   "slug": "toughened-glass/clear-toughenedtempered-glass",
+   "group": "Toughened Glass",
+   "title": "Clear Toughened/Tempered Glass",
+   "blocks": [
+    {
+     "k": "h",
+     "x": "PRODUCT DETAILS"
+    },
+    {
+     "k": "p",
+     "x": "Clear Float is a multi-purpose clear glass. It is a high quality, clear annealed glass, manufactured by the float process."
+    },
+    {
+     "k": "p",
+     "x": "Available in a wide range of thicknesses (4mm, 6mm, 8mm, 10mm, 12mm and 15mm), clear float is the base glass which can be processed into insulated glass, laminated glass, toughened glass, etched glass, sandblasted glass, and painted coloured glass. This float glass has several applications – from furniture to all-glass structural facades."
+    },
+    {
+     "k": "p",
+     "x": "This float glass fulfils all architectural needs – be it for glass roofing, glass windows, greenhouses, balconies or canopies. It can also be applied in interior décor for glass shelves, furniture, shower doors and even balustrades."
+    },
+    {
+     "k": "p",
+     "x": "Max dimensions in one piece 3210 x 2250 mm."
+    },
+    {
+     "k": "p",
+     "x": "CLICK HERE TO BUY ONLINE NOW"
+    }
+   ]
+  },
+  {
+   "slug": "toughened-glass/glass-table-tops",
+   "group": "Toughened Glass",
+   "title": "Glass Table Tops",
+   "blocks": [
+    {
+     "k": "h",
+     "x": "PRODUCT DETAILS"
+    },
+    {
+     "k": "p",
+     "x": "Glass table tops are also a hassle-free way to give furniture a new look. For example, if you want to refresh an older piece of furniture without having to deal with stains or paint, glass table tops are a great option. You can use a glass table top to add the shine a stain or paint would have without all the mess. A glass table top would look great on a dresser, desk, or a coffee table while also making it easy to clean them."
+    },
+    {
+     "k": "p",
+     "x": "If are you looking for that unique shape we offer a couple of ways to help us create that for you. The best way for us to make exactly what you want, is to use a digital file, like a CAD drawing. We understand that sometimes it isn’t easy to get a file like that to us. If that’s you, we can even use a pattern made of paper."
+    },
+    {
+     "k": "p",
+     "x": "We can also cut holes in the glass to ensure a proper fit on the existing frame."
+    }
+   ]
+  },
+  {
+   "slug": "toughened-glass/low-iron-toughenedtempered-glass",
+   "group": "Toughened Glass",
+   "title": "Low Iron Toughened/Tempered Glass",
+   "blocks": [
+    {
+     "k": "h",
+     "x": "PRODUCT DETAILS"
+    },
+    {
+     "k": "p",
+     "x": "LOW IRON is an extra clear glass which is valued for its attractive appearance and optical qualities. The low iron content produces a higher light transmittance and a reduced green tint inherent in other glasses thus making it perfect for when painting for use as a glass splashback."
+    },
+    {
+     "k": "p",
+     "x": "LOW IRON is an interior glass that is available in 4mm, 6mm, 8mm, 10mm, 12mm, 15mm and 19mm and is designed for applications where its unique appearance and optical qualities are of particular advantage such as:"
+    },
+    {
+     "k": "li",
+     "x": "Display cabinets"
+    },
+    {
+     "k": "li",
+     "x": "Shelves"
+    },
+    {
+     "k": "li",
+     "x": "Glass furniture"
+    },
+    {
+     "k": "li",
+     "x": "Table tops, bars and desk tops"
+    },
+    {
+     "k": "li",
+     "x": "Shower screens"
+    },
+    {
+     "k": "li",
+     "x": "Kitchen splashbacks"
+    },
+    {
+     "k": "li",
+     "x": "Balustrades"
+    },
+    {
+     "k": "h",
+     "x": "ADVANTAGES:"
+    },
+    {
+     "k": "p",
+     "x": "Excellent clarity ensures true colours are seen and optimum vision quality is achieved when looking through the glass"
+    },
+    {
+     "k": "p",
+     "x": "Offers a high level of light transmittance Creates maximum light inside rooms due to the products high level of transparency."
+    },
+    {
+     "k": "p",
+     "x": "Particularly beneficial for thicker laminated products, affording a high level of transparency."
+    },
+    {
+     "k": "p",
+     "x": "The edges of the glass remain clear, unlike other glass making it ideal for use in furniture."
+    },
+    {
+     "k": "p",
+     "x": "Max dimensions in one piece 3210 x 2250 mm."
+    },
+    {
+     "k": "p",
+     "x": "CLICK HERE TO BUY ONLINE NOW"
+    }
+   ]
+  }
+ ],
+ "blog": [
+  {
+   "slug": "dont-put-off-tomorrow-can-done-today",
+   "title": "Don’t put off until tomorrow what can be done today",
+   "date": "July 4, 2017",
+   "blocks": [
+    {
+     "k": "p",
+     "x": "Everyone knows the trouble with DIY, The process can take days or even weeks, alter the performance of the product, and possibly cause long-term damage to your home as well as yourself. Why not have our team of experienced installers fit your glass."
+    },
+    {
+     "k": "p",
+     "x": "Once your product is ready and inspected for accuracy, a glass.com.ng representative will contact you to set a convenient installation date. We can install your glass any time of the year."
+    },
+    {
+     "k": "p",
+     "x": "What to expect during installation"
+    },
+    {
+     "k": "p",
+     "x": "With glass.com.ng, our services are 1st Class, it’s more than just the product that delivers energy efficiency. Professional installation will ensure maximum performance. All of our installers adhere to the following installation quality guidelines:"
+    },
+    {
+     "k": "p",
+     "x": "Timing: Our installation teams will arrive on time.\nRisk Assessment: Our installers will perform an initial risk assessment and methodology of the projects requirements.\nCooperation: Cooperate with you to determine the best starting point for the project.\nProfessionalism: Installers will place a canvas drop cloth around all work areas.\nSpecification: Install our glass and glazing products according to stringent factory specifications.\nSite Clean-up: Carefully remove all debris from your home or premises and safely dispose of it.\nClean all work areas thoroughly.\nCustomer feedback: Upon completion seek your opinion to make sure you are completely happy with the product and the quality of the finish."
+    },
+    {
+     "k": "p",
+     "x": "Glass can be dangerous if not handled correctly; if you are in doubt seek expert advice and assistance."
+    },
+    {
+     "k": "p",
+     "x": "With glass.com.ng you get it right the first time."
+    },
+    {
+     "k": "h",
+     "x": "Leave a Reply Cancel reply"
+    }
+   ]
+  },
+  {
+   "slug": "glass-fact-history-glass-part-2",
+   "title": "Glass Fact: History of Glass (Part 2)",
+   "date": "",
+   "blocks": [
+    {
+     "k": "p",
+     "x": "Glass is an inorganic material usually clear or translucent with different colors. It is hard, brittle, and stands up to the effects of winds, rain o sun."
+    },
+    {
+     "k": "p",
+     "x": "Glass has been used for various kinds of utensils, mirrors, windows and more. It is thought to have been first created around 3000 BC, during the bronze age. Egyptian glass beads date back to about 2500 BC.\nDuring the Ptolemiac period, artisans created “ mosaic glass” in which slides of colored glass were used to create decorative in patters."
+    },
+    {
+     "k": "p",
+     "x": "In the 1st century BC, the glassmakers in Syria invented glassblowing and in the same period, in Venice, the first clear glass called cristallo was invented and then heavily exported. In 1625, glassmaker, George Ravenscroft invented lead crystal glass adding lead oxide to Venetian glass.\nIt was until 1902, that Irving W Colburn patented the sheet glass drawing machine, making the mass production of glass for windows possible."
+    },
+    {
+     "k": "p",
+     "x": "In 1904, a patented for a “glass-shaping machine” was granted to Michael Owen. The immense production of bottles, jars, and others containers owes its inception to this invention."
+    },
+    {
+     "k": "h",
+     "x": "Leave a Reply Cancel reply"
+    }
+   ]
+  },
+  {
+   "slug": "know-right-glass-shower-cubicle",
+   "title": "Know the right glass for your shower cubicle",
+   "date": "June 1, 2017",
+   "blocks": [
+    {
+     "k": "p",
+     "x": "The benefits and advantages of shower cubicle or shower doors are beyond the outward appearance or beauty. They contribute awesomely to the overall look and feel of the bathroom as they also have effect on the function."
+    },
+    {
+     "k": "p",
+     "x": "Shower cubicle at glass.com.ng can come framed or frameless, either which gives a finished look to your bathroom. In today’s innovative world, there are various choices than ever before at glass.com.ng to consider before selecting the right shower cubicle in relations to sizes, colours, glass options and details to match any style and décor."
+    },
+    {
+     "k": "p",
+     "x": "The types of glass door that can be used for different shower enclosures vary, but whichever glass type you choose for your shower cubicle, you can expect the same high quality when you buy from glass.com.ng anywhere within Lagos or Nigeria."
+    },
+    {
+     "k": "p",
+     "x": "Before considering having a shower cubicle you might also have to consider some factors such as budget, maintenance preferences and future plans."
+    },
+    {
+     "k": "h",
+     "x": "Here are other key points to consider before choosing the type of glass for your shower cubicle:"
+    },
+    {
+     "k": "li",
+     "x": "Thickness: 8mm or 10mm tempered glass is highly durable, long-lasting, safe and also easy to clean making either a perfect choice."
+    },
+    {
+     "k": "li",
+     "x": "Safety: Toughened safety glass is always a good choice for a wet room or shower enclosure."
+    },
+    {
+     "k": "li",
+     "x": "Weight: It’s worth remembering that thicker glass will need more support due to the extra weight."
+    },
+    {
+     "k": "li",
+     "x": "Design: Depending on the shape, the larger the glass or the more curved it is, the less thickness can be achieved due to design."
+    },
+    {
+     "k": "li",
+     "x": "Cost: If cost is a concern, or you do not like the look of thicker glass, then 4mm or 6mm glass are great alternatives for the shower glass."
+    },
+    {
+     "k": "li",
+     "x": "Edge protection: glass which does not have a protective framing can get chipped and broken. A shower enclosure with strong aluminium framing will support the glass in the shower doors and keep it well protected."
+    },
+    {
+     "k": "p",
+     "x": "At glass.com.ng we ensure products are at the highest quality, so you can be sure that whatever glass you choose for your shower enclosure will meet the highest possible safety standards and quality."
+    },
+    {
+     "k": "p",
+     "x": "Visit our social media handles as well as images link for various types of shower enclosure that you can choose from depending on your tastes and the size of the space that you have. When considering shower enclosures it’s also important to take the type of glass you want to choose into account. At glass.com.ng we don’t sell flimsy or unsafe products so you’ll only find glass designed to be durable and long lasting. Once you’ve decided where your shower enclosure will go tile the inside walls in preparation for your shower being fitted."
+    },
+    {
+     "k": "p",
+     "x": "If you are in doubt over your shower cubicle or you have some technical issues, do not hesitate to contact us at glass.com.ng because we are here to serve you better."
+    },
+    {
+     "k": "h",
+     "x": "Leave a Reply Cancel reply"
+    }
+   ]
+  },
+  {
+   "slug": "making-first-impression-frameless-glass-shop-front-doors-pretty-simple",
+   "title": "Frameless Glass - Best for Shop Front Doors.",
+   "date": "",
+   "blocks": [
+    {
+     "k": "p",
+     "x": "As with the local restaurant pictured in a nice area in Lagos, we are able to create a first impression reasonably easily."
+    },
+    {
+     "k": "p",
+     "x": "Giving your retail or restaurant premises a secure yet completely see through frameless tempered glass door/ wall so to speak has much more benefits than that of a traditional automatic door system."
+    },
+    {
+     "k": "li",
+     "x": "Free Lighting"
+    },
+    {
+     "k": "li",
+     "x": "Free advertising"
+    },
+    {
+     "k": "li",
+     "x": "Completely secure"
+    },
+    {
+     "k": "li",
+     "x": "Cost effective"
+    },
+    {
+     "k": "li",
+     "x": "Low maintenance costs"
+    },
+    {
+     "k": "li",
+     "x": "Easy to rebrand"
+    },
+    {
+     "k": "li",
+     "x": "Great Looking"
+    },
+    {
+     "k": "li",
+     "x": "Quick installation times"
+    },
+    {
+     "k": "p",
+     "x": "We live and operate in a very tightly held local historical city ( Lagos State, Nigeria) and as a very peculiar market in Sub Sahara Africa, yet glass is one of the less subjective issues that we deal with when it comes to conservation and planning."
+    },
+    {
+     "k": "p",
+     "x": "In Nigeria you will find many buildings are now starting to use glass to clad the buildings that were once stone or brick. I credit local/ national vehicle garages who have somewhat been a leader in glass entrances/ buildings.. Don’t believe me? Just drive down to your local Car dealer showroom on Adetokunboh Ademola Str V-Island or similar."
+    },
+    {
+     "k": "p",
+     "x": "For the very reasons we have listed, you can see the attraction of glass."
+    },
+    {
+     "k": "p",
+     "x": "There are several types of hinge systems that can be used, with either self closing or swing free, huge selection of other hardware including door handles ( the fish handles in the picture are custom made and designed by us)"
+    },
+    {
+     "k": "h",
+     "x": "Leave a Reply Cancel reply"
+    }
+   ]
+  },
+  {
+   "slug": "mirror-glass",
+   "title": "Mirror Glass",
+   "date": "",
+   "blocks": [
+    {
+     "k": "p",
+     "x": "Mirror glass is wonderful in helping a room look bigger or providing more light, or creating more appeal to the decor. For instance using a large mirror glass in a small room creates the illusion of depth, giving the room a much roomier feel."
+    },
+    {
+     "k": "p",
+     "x": "Mirror glass is a great way of making a room feel bigger and lit up. Glass.com.ng stocks all types of available mirror glass in sheets of 3200mm x 2200mm in Lagos state, Port-Harcourt, Abuja and other states with Nigeria, giving us the ability to provide mirror glass for almost any application for users also to buy glass online."
+    },
+    {
+     "k": "li",
+     "x": "Available in Silver (Standard Mirror), Bronze Tint, Grey (Smoked) Tint and Antique Silver"
+    },
+    {
+     "k": "li",
+     "x": "Smooth Polished Edges"
+    },
+    {
+     "k": "li",
+     "x": "Available with Beveled Edge Work or Standard Polishing"
+    },
+    {
+     "k": "li",
+     "x": "All Required Fittings can be supplied"
+    },
+    {
+     "k": "li",
+     "x": "Maximum Dimensions – 2240mm x 3200mm"
+    },
+    {
+     "k": "li",
+     "x": "Machined Cutouts and Notches to allow for Hinges, Handles, etc"
+    },
+    {
+     "k": "li",
+     "x": "4mm and 6mm Thicknesses"
+    },
+    {
+     "k": "li",
+     "x": "Toughened Mirror not Available"
+    },
+    {
+     "k": "p",
+     "x": "Glass.com.ng offers options such as Shaped & Linear Edge Polishing, Beveling, Safety Backing, Sandblasting & Drilling and much more."
+    },
+    {
+     "k": "h",
+     "x": "Our Mirror glass can be screwed into place or fitted by means of adhesive."
+    },
+    {
+     "k": "p",
+     "x": "These features make our mirror glass ideal for areas such as Gym Walls / Exercise Areas, Bathrooms, Living Areas and general wall cladding."
+    },
+    {
+     "k": "p",
+     "x": "Online Ordering Available"
+    },
+    {
+     "k": "p",
+     "x": "Order for your mirror glass online for sizes up to 3200mm x 1100mm from our Online Shop, and get your mirror glass delivered to your door."
+    },
+    {
+     "k": "h",
+     "x": "Order Mirror Samples"
+    },
+    {
+     "k": "p",
+     "x": "We stock each type of Standard and Tinted Mirror, to order Samples please see our Mirror Samples page."
+    },
+    {
+     "k": "p",
+     "x": "Our Mirrors are Safe for your Home"
+    },
+    {
+     "k": "p",
+     "x": "All of our glass Mirrors are made to the highest quality and fitted with care and precision."
+    },
+    {
+     "k": "p",
+     "x": "We can install these in any area of the home such as Kitchens, Living Rooms and Bathrooms."
+    },
+    {
+     "k": "h",
+     "x": "Available Edge Finishes"
+    },
+    {
+     "k": "p",
+     "x": "We can offer two different edge finishes on our mirrors :"
+    },
+    {
+     "k": "p",
+     "x": "Flat and Arriss – This profile features a polished edge with two small 45 degree chamfers, one to the top surface and one to the underside."
+    },
+    {
+     "k": "p",
+     "x": "Bevel Glass Mirror- The face surface of the glass is ground way and polished to various widths and thickness at the edge. Unless the thickness at the edge is specified, it will be to our normal setting."
+    },
+    {
+     "k": "p",
+     "x": "For 3 mm thick glass"
+    },
+    {
+     "k": "p",
+     "x": "up to 15 mm"
+    },
+    {
+     "k": "p",
+     "x": "For 4 mm thick glass"
+    },
+    {
+     "k": "p",
+     "x": "up to 20 mm"
+    },
+    {
+     "k": "p",
+     "x": "For 5 mm plus thick glass"
+    },
+    {
+     "k": "p",
+     "x": "up to 25 mm"
+    },
+    {
+     "k": "p",
+     "x": "Beveled mirror glass is possible between 3 and 45 degrees and can be done on both sides of the mirror glass. Minimum work piece dimensions is 35 x 35 mm. Facet on curved pieces possible max 17mm, on square pieces up to 25mm."
+    },
+    {
+     "k": "p",
+     "x": "Engraved / Sandblasted Mirrors"
+    },
+    {
+     "k": "p",
+     "x": "If you have a design you would like on your mirror glass, or you want to buy mirror glass online in Nigeria, within Lagos state, Port-Harcourt, Abuja and other states in Nigeria, we are equipped to help. Simply contact us and provide a diagram / CAD Drawing / Template of the design you require."
+    },
+    {
+     "k": "p",
+     "x": "Fitting"
+    },
+    {
+     "k": "p",
+     "x": "We can drill our mirror glass to allow for screws or provide Mirror Adhesive enabling you to install your mirror glass with no visible fixings. For all drilled Mirrors we do recommend safety backing to ensure large shards cannot fall from the wall if broken."
+    },
+    {
+     "k": "p",
+     "x": "Require a Quote or have a Question?"
+    },
+    {
+     "k": "p",
+     "x": "If you know what you need and require a quotation, fill out our Quotation Form"
+    },
+    {
+     "k": "p",
+     "x": "If there is anything you would like to know regarding this product, please fill out our Enquiry Form or Contact Us"
+    },
+    {
+     "k": "h",
+     "x": "Leave a Reply Cancel reply"
+    }
+   ]
+  },
+  {
+   "slug": "prominent-features-of-building-safety-glass",
+   "title": "Prominent Features of Building Safety Glass!",
+   "date": "",
+   "blocks": [
+    {
+     "k": "p",
+     "x": "Commonly people install windows and doors in their house and these are considered poor barriers against noise. It means that any noise or sound can be easily traveled through the windows and doors in spite of using proper glass products as barriers."
+    },
+    {
+     "k": "p",
+     "x": "In such situations, laminated glass is found to be the best choice to reduce noise or sound to pass through the doors or windows. This type of glass products is quite effective and fulfills the situation of reducing the high pitch frequencies of noises such as an aircraft passing by and creating loud noise around your house or rooms."
+    },
+    {
+     "k": "p",
+     "x": "The glass manufacturers are using the modern technology advances in the designing and making the inter-layer glass\nproduct. This method contains a prominent feature for designing the laminated glass so that its performance can be fruitful to barrier the noise pollution entering any specific area. The laminated building glass actually is a thicker and solid inter-layer than what is generally used can be good to acoustic control. People who are interested in installing this type of glass can get variety of inter-layer glass from Laminated glass supplier to install in your home environment."
+    },
+    {
+     "k": "h",
+     "x": "Leave a Reply Cancel reply"
+    }
+   ]
+  },
+  {
+   "slug": "remodeling-your-bathroom",
+   "title": "Remodeling Your Bathroom",
+   "date": "June 22, 2017",
+   "blocks": [
+    {
+     "k": "p",
+     "x": "Remodeling your Bathroom Will Increase Your Home’s Value as well as to fix existing problems, – Frameless shower glass doors at glass.com.ng will get it done.\nThe worth of your home is determined by quite a few things, your kitchen and bathroom being two of the biggest determining factors. It’s often been said that the most important rooms of the home are the kitchen and the bathroom. If your home has been remodeled in one of two or both of these areas, you definitely should look forward to having a much more profitable sale when selling your home."
+    },
+    {
+     "k": "p",
+     "x": "Whether you have a simple room or a master en suite, functionality should be at the heart of your bathroom remodel. At glass.com.ng, our frameless Shower Doors will help you achieve the clean look that will make your home look that much more valuable. Perception is everything. Something as simple as changing your regular shower doors that have been installed since the beginning of the time your home was built into frameless neo angle shower doors which will make all the difference in the world to whoever is viewing your home."
+    },
+    {
+     "k": "p",
+     "x": "One of the major and primary reasons that bathroom remodeling is on the increase is the value it adds to your home."
+    },
+    {
+     "k": "h",
+     "x": "Leave a Reply Cancel reply"
+    }
+   ]
+  },
+  {
+   "slug": "selection-glass-building-construction",
+   "title": "Selection of Glass for Building Construction",
+   "date": "",
+   "blocks": [
+    {
+     "k": "p",
+     "x": "Site construction has developed to the use of high quality glass home and office construction or installing in building projects. There are some precise features of glass that are admirably providing positive usages in various site construction installations. Laminated glass in home and other construction sites has been providing some specific benefits that no one can avoid and thus installers and users are depending upon using laminated glass in their home and other construction. There are some features that attract installers to use the Laminated Glasses in their usages. Such features are Safety, Security, Sound Reduction, Solar Energy Control, Ultra Violet Control, Low Visible Distortion, Durability, Design Versatility, and Easy Installation etc."
+    },
+    {
+     "k": "p",
+     "x": "The tempered/toughened glass also provides some extra features to laminated safety building glass as the glass is even designed to withstand pressures, bullet and bomb blast. This particular type of glass is made so by using compound thick and solid layers of glass that makes it durable enough to survive a lot. Tempered/toughened glass is secure and protected glass that provides durable protection to the people in keeping your house and the environment protected."
+    },
+    {
+     "k": "h",
+     "x": "Leave a Reply Cancel reply"
+    }
+   ]
+  },
+  {
+   "slug": "switch-glass-frameless-balustrades-handrails",
+   "title": "Why you should switch to glass frameless balustrades or handrails",
+   "date": "April 5, 2018",
+   "blocks": [
+    {
+     "k": "p",
+     "x": "Glass balustrades or handrails are more than just a safety feature, they are the stylish, durable and robust safety alternative that can turn any commercial or domestic space from mediocre to show-stopping.\nUsed on landings, staircases, balconies, mezzanine floors, high walkways and patios, there are a multitude of ways to incorporate glass balustrades or handrails into your interiors, so what is stopping you?"
+    },
+    {
+     "k": "p",
+     "x": "Here are the top five reasons why you should switch to glass balustrades or handrails today."
+    },
+    {
+     "k": "h",
+     "x": "1. Enhances Style of Building glass"
+    },
+    {
+     "k": "p",
+     "x": "Used correctly, glass balustrades or handrails can enhance the style of your building to achieve an unforgettable ‘wow’ factor. Glass.com.ng allows you to create a personalised modern space with a mix of decorative glass combined with different railing options, producing a structure unique to you. Using glass for your balustrades allows you to enhance the views of both your outdoor and indoor space whilst allowing natural and ambient light to reach all areas in your building."
+    },
+    {
+     "k": "h",
+     "x": "2. Safety"
+    },
+    {
+     "k": "p",
+     "x": "To ensure extra security, the glass material used for glass balustrades is thick, toughened safety glass which is difficult to break and does not shatter, permitting the balustrades to withstand just about any conditions. To add extra security to your space, you can also fix extra railings to the balustrades, both on the interior and exterior as required."
+    },
+    {
+     "k": "p",
+     "x": "3. Easily Maintained\nFew materials clean as easily as glass – with a simple wipe with a cloth, any traces of smudges or grime can be removed. The flat and glossy surface of laminated glass also allows glass balustrades to remain dust free for long periods of time. Dents and scratches are also issues most building materials are vulnerable to, but as glass is abrasion-resistant, it can much more easily withstand surface wear and tear, therefore making it the ideal balustrade material."
+    },
+    {
+     "k": "p",
+     "x": "4. Eco-Friendly\nGlass is 100% recyclable and one of few materials that does not degrade during the recycling process, allowing it to be recycled multiple times without any loss of quality. Choosing glass balustrades not only offers visual appeal but can boost your company’s environmental impact."
+    },
+    {
+     "k": "p",
+     "x": "5. Cost-Effective\nVersatility and strength makes glass one of the best structural items to use. Glass can be moulded into several different shapes, and unlike materials such as wood, glass will not discolour, rot or deform, making it an overall longer-lasting product. Glass balustrades are a good investment for your building as glass will look as good as new for years to come."
+    },
+    {
+     "k": "p",
+     "x": "As a leading Nigeria’s commercial supplier, Glass.com.ng have the skills and knowledge in-house to be able to provide you with exactly the right materials for your project. So, if you would like to find out further about glass balustrades and how you can install them safely, please do get in touch. We would welcome the opportunity to discuss your ideas with you and work out the best route forward for your particular project."
+    },
+    {
+     "k": "h",
+     "x": "Leave a Reply Cancel reply"
+    }
+   ]
+  },
+  {
+   "slug": "tempered-glass-5x-stronger",
+   "title": "Why Tempered Glass is 5x Stronger",
+   "date": "",
+   "blocks": [
+    {
+     "k": "p",
+     "x": "Toughened or tempered glass is a type of safety glass processed by controlled thermal or chemical treatments to increase its strength compared with normal glass. Tempering puts the outer surfaces into compression and the inner surfaces into tension. Such stresses cause the glass, when broken, to crumble into small granular chunks instead of splintering into jagged shards as plate glass (a.k.a. annealed glass) creates. The granular chunks are less likely to cause injury. You can read more about tempered/toughened glass online our previous post on http://glass.com.ng/clear-toughenedtempered-glass/."
+    },
+    {
+     "k": "p",
+     "x": "After tempering, the stress pattern developed by the glass is high, and the mechanical strength of tempered glass is four to five times higher than that of annealed glass."
+    },
+    {
+     "k": "p",
+     "x": "When tempered glass is broken, all the stored energy is released at once and the glass breaks into small pieces."
+    },
+    {
+     "k": "h",
+     "x": "Characteristics of Tempered/Toughened glass:"
+    },
+    {
+     "k": "p",
+     "x": "These characteristics explain why tempered/Toughened glass is 5x stronger and most preferred option which is largely available to buy online in Lagos, Nigeria."
+    },
+    {
+     "k": "li",
+     "x": "Mechanical Strength of Tempered Glass = 5x Mechanical strength of Annealed Glass"
+    },
+    {
+     "k": "li",
+     "x": "Tempered/Toughened glass is four to five times stronger than annealed glass of the same size and thickness against impact."
+    },
+    {
+     "k": "li",
+     "x": "Tempered glass has higher thermal strength, and it can withstand high temperature changes up to 250°C."
+    },
+    {
+     "k": "li",
+     "x": "Tempered/Toughened glass is considered as safety glass. It is difficult to break and even in the event of a breakage, disintegrates into small relatively harmless globules."
+    },
+    {
+     "k": "li",
+     "x": "Tempering does not alter the basic characteristics of glass such as light transmission and solar radiant heat properties of normal glass."
+    },
+    {
+     "k": "li",
+     "x": "The glass surface after heat treatment has the same resistance to surface damage as annealed glass."
+    },
+    {
+     "k": "li",
+     "x": "Tempered/Toughened glass cannot be cut or altered."
+    },
+    {
+     "k": "li",
+     "x": "Four to five times stronger than annealed glass"
+    },
+    {
+     "k": "li",
+     "x": "Two to three times stronger than heat strengthened glass"
+    },
+    {
+     "k": "li",
+     "x": "Fragments into small, relatively harmless pieces, reducing the likelihood of injury."
+    },
+    {
+     "k": "h",
+     "x": "Need for Tempered/Toughened Glass especially in Lagos, Nigeria:"
+    },
+    {
+     "k": "p",
+     "x": "There is an increasing need for the use of tempered/toughened glass in Lagos, Nigeria especially in specific areas of the building such as shower cubicle, front door and table tops. Glass.com.ng has provided the best means to buy tempered/toughened glass online"
+    },
+    {
+     "k": "p",
+     "x": "Tempering increases tensile strength, thermal shock resistance, and safety of normal glass. It also increases its heat withstanding capacity. Because of these properties, tempered glass is preferred in applications where strength, safety and thermal resistance are important considerations."
+    },
+    {
+     "k": "p",
+     "x": "You can order for your tempered/toughened glass of any dimension and thickness online in Lagos and any other places within Nigeria by clicking on this link provided http://glass.com.ng/order-online/ and get it delivered to you."
+    },
+    {
+     "k": "h",
+     "x": "Leave a Reply Cancel reply"
+    }
+   ]
+  },
+  {
+   "slug": "top-10-glass-buildings-worldwide",
+   "title": "TOP 10 GLASS BUILDINGS WORLDWIDE",
+   "date": "",
+   "blocks": [
+    {
+     "k": "p",
+     "x": "Glass buildings are increasingly becoming the heart of modern architecture with some of the beautiful structures in the world. Each glass structure is unique and display some functional work of art. These glass structures are part of what inspires Glass.com.ng to create the perfect glass product for installation.\nQuite a few glass buildings have taken birth over the years, displaying breathtaking beauty and outstanding innovation. Here is a list of Top 10 amazing glass buildings in the world."
+    },
+    {
+     "k": "h",
+     "x": "1. National Grand Theatre:"
+    },
+    {
+     "k": "p",
+     "x": "The National Grand Theater of China is located in Beijing, China, close to Tiananmen Square. NGT of China is completely made of glass and titanium and surrounded by an artificial lake to resemble a dome like shape. The structure stands in a man-made island and hosts an opera house, concert hall, shopping district and more.\nThis truly is an architectural masterpiece!"
+    },
+    {
+     "k": "h",
+     "x": "2. Dancing House, Prague:"
+    },
+    {
+     "k": "p",
+     "x": "The curved glass building is supposed to represent famous dancers, Fred Astaire and Ginger Rogers, dancing. A stark contrast to the more historical, traditional architecture in Prague."
+    },
+    {
+     "k": "h",
+     "x": "3. Farnsworth House, Chicago"
+    },
+    {
+     "k": "p",
+     "x": "Known by many as the ‘famous glass house in the woods’, the extensive use of clear glass makes this house appear almost transparent."
+    },
+    {
+     "k": "h",
+     "x": "4. Louvre Pyramid, Paris"
+    },
+    {
+     "k": "p",
+     "x": "Probably one of the most famous and well recognised glass buildings worldwide is the Louvre Pyramid that stands in front of the Louvre Museum in Paris, France. The pyramid stands tall at 70 feet and consists of 673 glass sections from tip to base."
+    },
+    {
+     "k": "h",
+     "x": "5. Basque Health Department HQ, Bilbao, Spain"
+    },
+    {
+     "k": "p",
+     "x": "Made of glass and steel with a polyhedral glass facade that allows light into the interior to make it a transparent, luminous space that appears almost surreal."
+    },
+    {
+     "k": "h",
+     "x": "6. La Estancia Glass Chapel, Mexico"
+    },
+    {
+     "k": "p",
+     "x": "Whilst not the largest or the grandest glass building, this beautiful open glass chapel is set in the peaceful gardens of Cuernavacova and is an extremely popular place for weddings. What makes this chapel clever is that the four facades are wrapped with Uprofiled glass, each spaced 10cm apart, to ventilate the small space without a requirement for air conditioning."
+    },
+    {
+     "k": "h",
+     "x": "7. The Glass Home by Carlo Santambrogio, Milan, Italy"
+    },
+    {
+     "k": "p",
+     "x": "You definitely wouldn’t want to throw stones near this house as this cubed concept home, designed with a blue hue, features glass walls, ceilings, stairways and doors. The home makes small spaces appear larger because even the furniture is made out of glass."
+    },
+    {
+     "k": "h",
+     "x": "8. The Netherlands Institute for Sound and Vision"
+    },
+    {
+     "k": "p",
+     "x": "Wrapped in a skin of colourful glass panels, this is one seriously eye-catching building."
+    },
+    {
+     "k": "h",
+     "x": "9. Selgas Cano Architecture Office, Spain"
+    },
+    {
+     "k": "p",
+     "x": "This glass capsule set in the middle of a quiet Spanish forest is definitely a bit different from the usual office building. A clear curved wall of glass means the walls and ceiling of the office are completely open to the nature that surrounds it."
+    },
+    {
+     "k": "h",
+     "x": "10. The Gherkin, London"
+    },
+    {
+     "k": "p",
+     "x": "And, finally, one that’s a little closer to home is London’s striking skyscraper, The Gherkin. The skin of the building is double glazed and the space between the glazing is ventilated to help control temperature and ventilation. Surprisingly, most of the panes of glass are flat and the only curved glass is the ‘lens’ at the top."
+    },
+    {
+     "k": "h",
+     "x": "Leave a Reply Cancel reply"
+    }
+   ]
+  },
+  {
+   "slug": "toughened-frameless-glass-staircase-nigeria",
+   "title": "Toughened Frameless Glass for Staircase in Nigeria.",
+   "date": "",
+   "blocks": [
+    {
+     "k": "p",
+     "x": "With a full house refurbishment in progress we were asked to complete the project with both internal and external frameless glass for various areas of the house."
+    },
+    {
+     "k": "p",
+     "x": "This particular client was keen to have as little ‘framework as possible’ to allow for light to travel throughout the property."
+    },
+    {
+     "k": "p",
+     "x": "The staircase the glass was fitted to was over 4 floors and would travel the distance from basement to the upper floor areas."
+    },
+    {
+     "k": "h",
+     "x": "Leave a Reply Cancel reply"
+    }
+   ]
+  }
+ ],
+ "testimonials": [
+  {
+   "quote": "Just a little note to say that my glass arrived safely yesterday. You were much faster than if I had ordered it locally from Mushin Market. Very fast shipping! Perfect cut on the glass. You guys do great work and I’m very happy I ordered through you. I would recommend your company to anyone. Very happy customer.",
+   "who": "James · Ikorodu Lagos"
+  },
+  {
+   "quote": "This is exactly as promised, and great to have the custom size. I wish I’d spent the bit more and gotten a finished edge like a bevel. These are rough cut out of what was probably a gigantic piece to meet my specs. I’ll make it work, but definitely you have to trim and edge it; designed for a full wall or integrated design. It can’t just screw onto the wall like a mirror would – but you get what you pay for, and I didn’t want to mess with clips and hangers. I give it a 4, only because I think the description should include “rough cut edges”..and maybe the company could offer an upgrade for the same thing with a polished edge (maybe they do, and I missed it?). Fast, efficiently processed, and well packaged.",
+   "who": "Samson · Ikeja GRA Lagos"
+  },
+  {
+   "quote": "I found NFO Glass just by chance through google. I was skeptical ordering a mirror over the internet but found their site very easy to use and took a chance. I was very impressed when it arrived, the mirror was perfect, great packaging, very secure. I have a few more projects which need mirrors. I will definitely be using Nigeria’s First Online Glass again.",
+   "who": "Innocent Dibia · Apapa Lagos"
+  },
+  {
+   "quote": "The packaging was excellent, Well pleased with the mirror. But with one complaint, I made it work,but it was off on both measurements by a 1.5mm . I had to shave the inside of the frame by that much but all is well now. I’m not sure why I have to review a round table top, when I didn’t order any. ????",
+   "who": "William · Apapa Lagos"
+  },
+  {
+   "quote": "Ordered two custom mirrors for our bathroom renovation. Ordering was easy, there was a person available by phone to answer questions and follow up, mirrors arrived in perfect condition within the time frame specified and the price was nearly half the quotes I wad given by the Builders and accessories shop i talked to , even adding shipping! Would definitely order from glass dot com dot ng again",
+   "who": "Ladele Cameron Cole · Surulere Lagos"
+  },
+  {
+   "quote": "Over the past few years I’ve just come to expect my online orders to be screwed up somehow, however, Nigeria’s First Online Glass came through with 100% accuracy. I ordered three shelves to replace the ones that I somehow lost in a move. They could not have looked or fit better. PERFECTION, is the word I would use in all aspects of this order. The price was excellent, the online custom order form was easy to follow, the delivery time was less than one week, and three of my pieces were safely packed and in mint condition when I pulled them out of the box. I couldn’t be happier with my experience, and will be recommending you to anyone looking for custom glass services. Anyone who works there obviously takes a lot of pride in what they do. THANK YOU, THANK YOU, THANK YOU! For service above and beyond the norm.",
+   "who": "Kemi and Samson · Lekki Lagos"
+  },
+  {
+   "quote": "I run a fabrication company and ordered 10 panes of 400 x 240mm glass to make 2 glass doors the the order came quickly the packaging was great and most importantly the cuts were exact. Locally I would have spent 2 times the amount charged by NFO Glass because I usually spend a lot more on transporting the glass from the processing plant to the fabrication plant. I have 3 more doors to do & you have my business",
+   "who": "Jonathan · Aluminium Village Lagos"
+  },
+  {
+   "quote": "Everyone was polite and efficient, especially the men who installed the glass leaving everything clean and tidy.",
+   "who": "MUSTAPHA · Mowe Ogun State"
+  },
+  {
+   "quote": "We bought a custom-sized mirror with beveled edges to replace a broken coffee table top. It was expensive, but it worked! Our table looks like new.",
+   "who": "Akpewe · Banana Island"
+  },
+  {
+   "quote": "I love, love, love this frameless mirror. Custom size, with beveled edge, is perfect for my Walk in closet! Shipped quickly for only #8,000 , WOW! Thank you!",
+   "who": "MrsAvanoma · Lekki Lagos"
+  },
+  {
+   "quote": "After trying the local mushin Marketwith too much stress, I selected NFOglass. The website was easy to navigate and the mirror arrived so quickly. What was impressive were the precautions in packaging the mirror so carefully . It was very protected by several layers of cushioning and boxing. The quality of the product is very high. All in all, the total cost was well worth it.",
+   "who": "Mr Ayo Onilenla Lagos"
+  },
+  {
+   "quote": "Just a little note to say that my glass arrived safely yesterday. You guys were much faster than if I had had to go and buy myself from Mushin. Perfect cut on the glass. You guys do great work and I’m very happy I ordered through you. I would recommend your company to anyone. Very happy customer.",
+   "who": "Demola Lekki"
+  }
+ ],
+ "pages": {
+  "about-us": {
+   "title": "About us",
+   "blocks": [
+    {
+     "k": "p",
+     "x": "It is my pleasure to introduce to you www.glass.com.ng referred to as “NFO glass” which is the Nigerian First Online glass company. We are currently comprised of a friendly team and competent glass sales people, who are dedicated to serving our clientele in the glass market as well as contractors and specifiers across the country."
+    }
+   ]
+  },
+  "about-us/buy-glass-from-us": {
+   "title": "Buy glass from us",
+   "blocks": [
+    {
+     "k": "p",
+     "x": "To order now, you can whatsapp or call 08094560350 and we would deliver you already processed (TEMPERED / TOUGHENED, LAMINATED, CURVED or INSULATED GLAZING ) glass in no time."
+    },
+    {
+     "k": "p",
+     "x": "It could not be a more viable proposition! We supply toughened glass with prices way under the average trade price. This means if your glass is sold on to your client or customer, your margins can be more profitable or help with cost cutting excercises."
+    },
+    {
+     "k": "p",
+     "x": "Require a Quote or have a Question?"
+    },
+    {
+     "k": "p",
+     "x": "If you know what you need and require a quotation, fill out our Quotation Form"
+    },
+    {
+     "k": "p",
+     "x": "If there is anything you would like to know regarding this product, please fill out our Enquiry Form or Contact Us"
+    }
+   ]
+  },
+  "about-us/our-mission": {
+   "title": "OUR MISSION",
+   "blocks": [
+    {
+     "k": "p",
+     "x": "NFOglass has captured and embraced the internet, dropped the associated overheads with sales staff and retail outlets thus focusing on price, value and service."
+    }
+   ]
+  },
+  "about-us/the-nigerian-first-online-glass-company": {
+   "title": "The nigerian first online glass company",
+   "blocks": [
+    {
+     "k": "p",
+     "x": "With Glass.com.ng You’re buying directly from the manufacturer—no middle man."
+    },
+    {
+     "k": "p",
+     "x": "We stand alone as the largest holder of architectural glass options available in Nigeria and we also have a partnership that enables us delivery promptly depending on order size. Using Indigenous processing and design companies that own state-of- the-art manufacturing facilities only. This allows us to sell directly to you with no middleman or contractor. Nigerian First Online Glass Company the absolute highest quality glass and hardware for shower doors, windows, frameless glass doors, partitions, curtain walls, decorative walls e.t.c at the absolute lowest cost to you."
+    }
+   ]
+  },
+  "about-us/our-clients": {
+   "title": "Our Clients",
+   "blocks": [
+    {
+     "k": "p",
+     "x": "Our clients are you!, the great Nigerian public. I must add that we also sell direct to the following!"
+    },
+    {
+     "k": "li",
+     "x": "Bathroom Retail"
+    },
+    {
+     "k": "li",
+     "x": "Property Developers"
+    },
+    {
+     "k": "li",
+     "x": "Glass Retailers"
+    },
+    {
+     "k": "li",
+     "x": "SME and Large Business"
+    },
+    {
+     "k": "li",
+     "x": "Aluminium& Window Fabricators"
+    },
+    {
+     "k": "li",
+     "x": "Contractors"
+    },
+    {
+     "k": "li",
+     "x": "Installers of Bathrooms and Kitchens"
+    },
+    {
+     "k": "li",
+     "x": "Carpenters"
+    },
+    {
+     "k": "li",
+     "x": "Specified by Architects"
+    },
+    {
+     "k": "li",
+     "x": "Interior Designers"
+    },
+    {
+     "k": "li",
+     "x": "Shop Fitters"
+    }
+   ]
+  },
+  "shipping-policy": {
+   "title": "Shipping Policy",
+   "blocks": [
+    {
+     "k": "p",
+     "x": "The Nigerian Online Glass Company ships to 36 states in Nigeria as well as throughout the Republic of Benin or to the port of your choice. We currently us GiG for most of our ship outs throughout the country. We also can arrange your shipment for export, leaving most of the stress and arrangements for us to handle no problem. We currently do not ship to P.O. Boxes. All national ship outs will be custom boxed by us, packed and wrapped in a thick cardboard for small orders with all the interior glass edges protected by specially manufactured Styrofoam for added protection."
+    },
+    {
+     "k": "p",
+     "x": "Overseas ship outs require a custom wood crated container made by us in our facility to insure your frameless enclosure reaches its final destination as when it left our manufacturing plant. Our delivery service simply means curbside delivery. Your custom glass order is custom boxed in our facility and delivered to your address. The box or items will not be carried inside your home or office."
+    },
+    {
+     "k": "li",
+     "x": "Our delivery service should notify you to schedule your approximately delivery time appointment."
+    },
+    {
+     "k": "li",
+     "x": "All deliveries nationwide are made between the hours of 8:00 a.m. to 5:00 p.m. Monday through Friday and can have up to a 4 hour window."
+    },
+    {
+     "k": "li",
+     "x": "Delivery does not mean or include assembly or set up of purchased items or removal of the packaging materials or glass."
+    },
+    {
+     "k": "li",
+     "x": "Your frameless glass/mirror will be delivered by a lift gate truck by the driver and given to you to sign for."
+    },
+    {
+     "k": "li",
+     "x": "You will be asked to sign a proof of delivery receipt. We highly suggest at this time you inspect the box for any visible damage and make note as well as take pictures with the driver still there."
+    },
+    {
+     "k": "li",
+     "x": "Please make note of any damage to the boxed item upon delivery. This is very important."
+    },
+    {
+     "k": "li",
+     "x": "If refusing delivery due to visible damage, please note “refused due to visible damage” on the receipt presented."
+    },
+    {
+     "k": "li",
+     "x": "Please note the delivery truck is not a 4×4. If you live in an area where you know the truck cannot access, please arrange to meet the truck where it is safe and convenient for all to unload minimizing the risk of damage to your custom glass enclosure."
+    },
+    {
+     "k": "li",
+     "x": "All orders placed are guaranteed to arrive in good condition. Before you sign for your frameless shower enclosure or door/package, if any damage is visible or noticeable, simply refuse the delivery and call our office immediately (take photos). We will expedite a remake based on the damages and send the right out to you."
+    },
+    {
+     "k": "li",
+     "x": "Your sizes may vary give or take up to 19mm."
+    },
+    {
+     "k": "p",
+     "x": "Please be reminded that due to the nature of our terms and policy and the fact that every piece of glass we make is custom made to suite your personnel needs. Once you sign off on the design layout and sizes as well as these terms and conditions, your order instantly is processed and put into production."
+    },
+    {
+     "k": "p",
+     "x": "Order can bemodified cancelled or modified once it is signed and approved by you."
+    },
+    {
+     "k": "p",
+     "x": "The Federal Government of Nigeria mandates that no defects should be visible in the glass when it is viewed vertically or horizontally from a distance of 11 feet away under normal lighting conditions. All of our glass meets or exceeds these standard limits set forth. Remaking of glass due to scratches will be based on the discretion of the industries tolerance standards."
+    }
+   ]
+  },
+  "terms-and-conditions": {
+   "title": "Terms and Conditions",
+   "blocks": [
+    {
+     "k": "p",
+     "x": "Requesting Samples of Glass"
+    },
+    {
+     "k": "p",
+     "x": "If you would like to see a sample of our glass to inspect the quality for yourself, please contact us with information regarding which finished glass product you are interested in and your contact details."
+    },
+    {
+     "k": "p",
+     "x": "Glass Processing Pricing"
+    },
+    {
+     "k": "p",
+     "x": "If you would like a quote on any Processed Glass contact us with information regarding the dimensions and required machining features (Drill Holes, Brilliant Cuts, etc)."
+    },
+    {
+     "k": "p",
+     "x": "Discounts are available varying by the quantity required, contact us for further details orders@glass.com.ng."
+    },
+    {
+     "k": "p",
+     "x": "Glass Processing Factory"
+    },
+    {
+     "k": "p",
+     "x": "Manufacturing glass for our own customers and fitters, we also process glass for other glass companies which require CNC equipped facilities."
+    },
+    {
+     "k": "p",
+     "x": "If you represent a company requiring CNC machining of “Own” glass, or would like us to supply glass also, please Contact Us with any queries."
+    },
+    {
+     "k": "p",
+     "x": "If you have a CAD Drawing (DXF / DWG) of the glass item you require, please email it to us as we can load this into our machine to produce an accurate piece."
+    },
+    {
+     "k": "p",
+     "x": "Glass Delivery Around the Country"
+    },
+    {
+     "k": "p",
+     "x": "We stand alone as the largest delivery company for architectural glass options available in Nigeria and we also have a partnership that enables us delivery promptly depending on order size. Using Indigenous processing and design companies that own state-of-the-art manufacturing facilities only. This allows us to sell directly to you with no middleman or contractor. Nigerian First Online Glass Company the absolute highest quality glass and hardware for shower doors, windows, frameless glass doors, partitions, curtain walls, decorative walls e.t.c at the absolute lowest cost to you."
+    },
+    {
+     "k": "p",
+     "x": "Each piece of our custom made artisan glass has the stamp of authenticity and once it’s ordered from us you have a guaranty on Safety Glass. This confirms to you our personal guarantee that your glass is of best quality, unique, and has been hand crafted just for you."
+    },
+    {
+     "k": "p",
+     "x": "Your frameless glass order can be ready within about 48 hours from when the custom design is approved to the moment your glass door is ready to be scheduled for delivery or installation. We offer direct from the manufacturer pricing and service, since after all that’s who we are. Nigerian First Online Glass Company is the only direct from manufacturer company offering the lowest prices and delivery of glass product line. We urge you to get another quote from a retail shower door or glass company and compare our price to theirs."
+    },
+    {
+     "k": "p",
+     "x": "This is the place for the most transparent transaction and quotation padding stops now!"
+    },
+    {
+     "k": "p",
+     "x": "Standard Lead times are as follows:"
+    },
+    {
+     "k": "li",
+     "x": "Standard single toughened or double glazed units – 4 days lead time"
+    },
+    {
+     "k": "li",
+     "x": "(orders placed before 12.00noon on day one will be ready for delivery / collection some time during day three)."
+    },
+    {
+     "k": "li",
+     "x": "Decorative double glazed units – minimum 6 day lead time unless otherwise discussed at time of placing order."
+    },
+    {
+     "k": "li",
+     "x": "Processed Toughened or Toughened Laminate – 5 to 10 days lead time depending on the processing requirements."
+    },
+    {
+     "k": "li",
+     "x": "For special glasses (fire glass, Oriel patterns, special silvered), etc., delivery dates should be discussed when placing orders."
+    },
+    {
+     "k": "p",
+     "x": "Note: With regard to shapes – lead time starts from receipt of both the template/drawing and faxed purchase order and all deliveries are subject to terms and conditions of sale."
+    },
+    {
+     "k": "p",
+     "x": "General contractor? Project manager? Architect?"
+    },
+    {
+     "k": "p",
+     "x": "Glass Fabricator? Engineer? Interior designer?"
+    },
+    {
+     "k": "p",
+     "x": "Welcome to the next best thing. We now offer special reduced pricing to those of you who are in need of our products on a CONTINUED basis or a project that must be done in phases. We want you to know that you now have the option to buy directly from us, the manufacturer! Do you have multiple projects or a building that requires custom frameless shower doors or enclosures? We can help you with design layouts and options that not only fit your budget, but are guaranteed to be the finest quality and quickest turnaround time in the business!"
+    },
+    {
+     "k": "p",
+     "x": "Imagine, custom American made frameless shower doors, glass partitions walls, and entrance doors, all custom made just for you and shipped within just days of placing your order. No more middlemen or excuses. Now you can buy factory direct to you, the end user with all the resources you can ever ask for."
+    },
+    {
+     "k": "p",
+     "x": "We offer onsite measuring as well as installation, if requested"
+    },
+    {
+     "k": "p",
+     "x": "Want to save money? Simply follow our installation steps or have us come out one time to teach your men and away you go. Not only do you save a substantial amount of money, you just created much needed work for your men or the local islanders. Everyone wins!"
+    },
+    {
+     "k": "p",
+     "x": "Please contact us at +234 809 456 0350 or send us a message. Let us know what your project entails and we will assign to you your very own technical advisor that will help guide you from the design process, and the way to delivery."
+    }
+   ]
+  },
+  "types-of-glass": {
+   "title": "Types of Glass",
+   "blocks": [
+    {
+     "k": "p",
+     "x": "Welcome to glass.com.ng your one stop store for all types of glass. Our glass products cover all categories and types. Some of our products include: Annealed glass, Tempered glass, Laminated glass, mirrors and many more in different shapes, sizes and thicknesses."
+    },
+    {
+     "k": "h",
+     "x": "Toughened glass"
+    },
+    {
+     "k": "p",
+     "x": "Toughened glass is a type of safety glass, five times stronger than normal glass. Perfect for glass shelves, shower screens, partitions, table tops and balustrades Available in a wide range of thicknesses (4mm, 6mm, 8mm, 10mm, 12mm and 15mm). Toughened glass breaks into many small pieces when broken and its ideal for your store, home and office."
+    },
+    {
+     "k": "h",
+     "x": "Mirrors"
+    },
+    {
+     "k": "p",
+     "x": "The mirrors can be cut to your exact specifications so they fit perfectly in your home. Mirror is stocked in both 4mm & 6mm and can be cut, shaped, polished and drilled to your designs. Note that mirror cannot be toughened only laminated for extra safety, but mirrored glass can be toughened colour: brown, grey, green, and blue, black."
+    },
+    {
+     "k": "p",
+     "x": "Two or more sheets of glass are placed together with one or more layers of PVB (polyvinyl butyral, a type of plastic) between them. Laminated glass is also a type of safety glass."
+    }
+   ]
+  },
+  "products": {
+   "title": "Products",
+   "blocks": [
+    {
+     "k": "h",
+     "x": "Custom Glass Products"
+    },
+    {
+     "k": "p",
+     "x": "With all the experience and technology we have access to we have to ability to create a wide array of custom glass products in order to help you with your glass needs."
+    }
+   ]
+  }
+ }
+}
