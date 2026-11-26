@@ -2,19 +2,8 @@
 "use client";
 
 import { loadFont as loadUltra } from "@remotion/google-fonts/Ultra";
-import { useEffect, useRef, useState } from "react";
-import {
-  AbsoluteFill,
-  continueRender,
-  delayRender,
-  Easing,
-  getRemotionEnvironment,
-  interpolate,
-  spring,
-  useCurrentFrame,
-  useCurrentScale,
-  useVideoConfig,
-} from "remotion";
+import { type CSSProperties, type ReactNode, type Ref, useEffect, useRef, useState } from "react";
+import { Easing, interpolate, spring } from "remotion";
 import {
   mixOklch,
   resolveFont,
@@ -22,12 +11,28 @@ import {
   useSnapCnTheme,
 } from "@/components/ui/block-wordmark-utils/index";
 
-// Ultra ships a single weight (400). It stays the fallback face; glass.com.ng passes its own
-// display face through `fontFamily`.
-const { fontFamily: ULTRA, waitUntilDone: ultraReady } = loadUltra("normal", {
-  weights: ["400"],
-  subsets: ["latin"],
-});
+// Driven by its host's own clock (the `frame`, `width`, `height`, `fps` and `scale` props), not a
+// Remotion <Player>: the player's start-up raced the page's font and chunk cache, and on a cached
+// reload it could sit on frame 0, where everything is scaled to nothing. Only Remotion's pure
+// maths (interpolate, spring, Easing) is still used.
+
+/** Remotion's AbsoluteFill, as a plain div. */
+function AbsoluteFill({ style, className, children, ref }: { style?: CSSProperties; className?: string; children?: ReactNode; ref?: Ref<HTMLDivElement> }) {
+  return (
+    <div ref={ref} className={className} style={{ position: "absolute", inset: 0, display: "flex", flexDirection: "column", ...style }}>
+      {children}
+    </div>
+  );
+}
+
+// Ultra ships a single weight (400). It is only the fallback face: nfoglass passes its own display
+// face through `fontFamily`, so Ultra is fetched lazily and only when nothing else is given.
+const ULTRA = "Ultra";
+let ultra: ReturnType<typeof loadUltra> | null = null;
+const ultraReady = () => {
+  ultra ??= loadUltra("normal", { weights: ["400"], subsets: ["latin"] });
+  return ultra.waitUntilDone();
+};
 
 const CLAMP = { extrapolateLeft: "clamp", extrapolateRight: "clamp" } as const;
 
