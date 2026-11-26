@@ -5,13 +5,16 @@ import { Header } from "@/components/site/header";
 import { Footer } from "@/components/site/footer";
 import { Loader } from "@/components/site/loader";
 
+const TITLE = "nfoglass · Nigeria’s first online glass company";
+const DESCRIPTION =
+  "Order glass cut to your measure: toughened, laminated, mirrors, shower screens, balustrades, splashbacks and more, delivered from Lagos Island across Nigeria.";
+
 export const metadata: Metadata = {
-  title: {
-    default: "nfoglass · Nigeria’s first online glass company",
-    template: "%s · nfoglass",
-  },
-  description:
-    "Order glass cut to your measure: toughened, laminated, mirrors, shower screens, balustrades, splashbacks and more, delivered from Lagos Island across Nigeria.",
+  title: { default: TITLE, template: "%s · nfoglass" },
+  description: DESCRIPTION,
+  applicationName: "nfoglass",
+  openGraph: { type: "website", siteName: "nfoglass", locale: "en_NG" },
+  twitter: { card: "summary" },
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
