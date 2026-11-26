@@ -120,14 +120,59 @@ export function Header() {
           </button>
         </div>
       </div>
-      {open && (
-        <div className="mx-auto mt-2 max-w-[1320px] rounded-2xl border border-ink/10 bg-paper/95 p-2 text-ink shadow-xl backdrop-blur-xl lg:hidden">
-          {NAV.map((n) => (
-            <Link key={n.href} href={n.href} onClick={() => setOpen(false)} className="flex min-h-12 items-center rounded-xl px-3 text-[17px] font-medium hover:bg-paper-2">
-              {n.label}
-            </Link>
-          ))}
-          <div className="mt-2 grid grid-cols-2 gap-2 border-t border-ink/10 pt-3">
+      {/* Mobile drawer: slides in slowly from the right over 60% of the screen; the rest blurs */}
+      <div className="lg:hidden" inert={!open}>
+        <button
+          type="button"
+          aria-label="Close menu"
+          tabIndex={-1}
+          onClick={() => setOpen(false)}
+          className={cn(
+            "fixed inset-0 z-[60] bg-ink/25 backdrop-blur-md transition-opacity duration-700 ease-out",
+            open ? "opacity-100" : "pointer-events-none opacity-0",
+          )}
+        />
+        <aside
+          aria-label="Menu"
+          className={cn(
+            "fixed inset-y-0 right-0 z-[70] flex w-[60vw] min-w-[230px] flex-col overflow-y-auto border-l border-ink/10 bg-paper/95 px-4 pt-5 pb-8 text-ink shadow-[-24px_0_60px_-30px_rgba(6,63,55,0.6)] backdrop-blur-xl transition-transform duration-700 ease-[cubic-bezier(.22,1,.36,1)] motion-reduce:duration-0",
+            open ? "translate-x-0" : "translate-x-full",
+          )}
+        >
+          <div className="flex items-center justify-between">
+            <Wordmark name="nfoglass" markSize={28} className="text-[18px]" />
+            <button
+              type="button"
+              aria-label="Close menu"
+              onClick={() => setOpen(false)}
+              className="grid size-10 place-items-center rounded-xl border border-ink/15"
+            >
+              <X className="size-5" />
+            </button>
+          </div>
+          <nav aria-label="Mobile" className="mt-6 flex flex-col">
+            {NAV.map((n, i) => {
+              const on = path === n.href || path.startsWith(`${n.href}/`);
+              return (
+                <Link
+                  key={n.href}
+                  href={n.href}
+                  onClick={() => setOpen(false)}
+                  aria-current={on ? "page" : undefined}
+                  style={{ transitionDelay: open ? `${180 + i * 60}ms` : "0ms" }}
+                  className={cn(
+                    "flex min-h-12 items-center gap-2 rounded-xl px-3 text-[17px] font-medium transition-[opacity,transform] duration-500 hover:bg-paper-2",
+                    open ? "translate-x-0 opacity-100" : "translate-x-6 opacity-0",
+                    on && "text-teal-700",
+                  )}
+                >
+                  {on && <span className="size-1.5 rounded-full bg-teal-600" />}
+                  {n.label}
+                </Link>
+              );
+            })}
+          </nav>
+          <div className="mt-auto grid gap-2 border-t border-ink/10 pt-4">
             <a href={`tel:${CONTACT.tel}`} className="flex h-12 items-center justify-center gap-2 rounded-xl border border-ink/15 font-semibold">
               <Phone className="size-4" /> Call
             </a>
@@ -135,8 +180,8 @@ export function Header() {
               Order online
             </Link>
           </div>
-        </div>
-      )}
+        </aside>
+      </div>
     </header>
   );
 }
