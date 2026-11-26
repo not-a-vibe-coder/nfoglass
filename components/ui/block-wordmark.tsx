@@ -232,10 +232,8 @@ export function BlockWordmark({
   const probeRef = useRef<HTMLDivElement>(null);
   const charRefs = useRef<(HTMLSpanElement | null)[]>([]);
   const rulerRef = useRef<HTMLSpanElement>(null);
-  const [handle] = useState(() => delayRender("block-wordmark: measure glyphs"));
   const [metrics, setMetrics] = useState<Metrics | null>(null);
-  // A <Player> scales the whole composition, so rects come back in device px; divide them back.
-  const scale = useCurrentScale({ dontThrowIfOutsideOfRemotion: true });
+  // The host scales the whole stage, so rects come back in device px; `scale` divides them back.
 
   useEffect(() => {
     let cancelled = false;
@@ -244,7 +242,6 @@ export function BlockWordmark({
       const box = probeRef.current;
       const ruler = rulerRef.current;
       if (!box || !ruler) {
-        continueRender(handle);
         return;
       }
       const glyphChars = Array.from(text);
@@ -275,11 +272,11 @@ export function BlockWordmark({
     return () => {
       cancelled = true;
     };
-  }, [handle, text, face, fontWeight, fontSize, scale]);
+  }, [text, face, fontWeight, fontSize, scale]);
 
   useEffect(() => {
-    if (metrics) continueRender(handle);
-  }, [metrics, handle]);
+    if (metrics) onReady?.();
+  }, [metrics, onReady]);
 
   // ─── Layout ───
   const glyphs =
