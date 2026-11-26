@@ -10,7 +10,16 @@ import { ActionButton } from "@/components/ui/button-4";
 import { cn } from "@/lib/utils";
 
 /** The green glass G, set beside the domain. `markSize` is the logo's edge in px. */
-export function Wordmark({ className, markSize = 34 }: { className?: string; markSize?: number }) {
+export function Wordmark({
+  className,
+  markSize = 34,
+  name,
+}: {
+  className?: string;
+  markSize?: number;
+  /** Plain name in place of the domain, e.g. "nfoglass" in the nav bar. */
+  name?: string;
+}) {
   return (
     <span className={cn("flex items-center gap-2 font-display text-[22px] leading-none font-bold tracking-[-0.03em]", className)}>
       <Image src="/logo-160.png" alt="" width={markSize} height={markSize} priority className="shrink-0 drop-shadow-[0_4px_10px_rgba(37,160,90,0.35)]" />
