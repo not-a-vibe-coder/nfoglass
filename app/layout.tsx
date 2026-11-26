@@ -6,7 +6,6 @@ import { Footer } from "@/components/site/footer";
 import { Loader } from "@/components/site/loader";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://glass.com.ng"),
   title: {
     default: "nfoglass · Nigeria’s first online glass company",
     template: "%s · nfoglass",
