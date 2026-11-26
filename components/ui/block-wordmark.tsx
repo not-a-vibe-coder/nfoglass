@@ -147,6 +147,16 @@ export interface BlockWordmarkProps {
   className?: string;
   theme?: Partial<SnapCnTheme>;
   mode?: "light" | "dark";
+  /** Called once the glyphs are measured and the wordmark can be seen; the host's clock starts here. */
+  onReady?: () => void;
+  /** The current frame of the host's clock; may be fractional. */
+  frame: number;
+  /** The stage size in px, and its frame rate. */
+  width: number;
+  height: number;
+  fps: number;
+  /** How much the host has scaled the stage, so measured rects can be divided back. */
+  scale?: number;
 }
 
 /** One hue, five shades: `primary` walked toward pure white or black in OKLCH. */
@@ -196,9 +206,14 @@ export function BlockWordmark({
   className,
   theme,
   mode,
+  onReady,
+  frame: hostFrame,
+  width,
+  height,
+  fps,
+  scale = 1,
 }: BlockWordmarkProps) {
-  const frame = useCurrentFrame() * speed;
-  const { width, height, fps } = useVideoConfig();
+  const frame = hostFrame * speed;
   const t = useSnapCnTheme(theme, mode);
   const face = resolveFont(fontFamily ?? t.fontFamily) ?? ULTRA;
   const ink = color ?? t.foreground;
