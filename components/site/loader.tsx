@@ -5,6 +5,7 @@ import Image from "next/image";
 import { usePathname } from "next/navigation";
 import { useEffect, useState } from "react";
 import BlockWordmark from "@/components/ui/block-wordmark";
+import { resolveFont } from "@/components/ui/block-wordmark-utils";
 
 // The block wordmark spells "glass" over the page on every load and every page change, then lifts
 // away. The build resolves around frame 115 at 30fps, so the overlay holds about 4.3s.
@@ -22,7 +23,15 @@ function LoaderScreen() {
   useEffect(() => {
     // Deferred a tick: session storage only exists in the browser, and the first paint has to
     // match the server's, which always renders the overlay.
-    const begin = window.setTimeout(start, 0);
+    // Start only once the display face is resident, capped so a slow font can't hold the page.
+    let cancelled = false;
+    const face = resolveFont("var(--font-display-face)");
+    const fonts = face ? document.fonts.load(`700 220px ${face}`).then(() => document.fonts.ready) : Promise.resolve();
+    const cap = new Promise((r) => window.setTimeout(r, 2500));
+    let begin = 0;
+    Promise.race([fonts, cap]).finally(() => {
+      if (!cancelled) begin = window.setTimeout(start, 0);
+    });
     let leave = 0;
     let done = 0;
     function start() {
@@ -42,6 +51,7 @@ function LoaderScreen() {
       }, (DURATION / 30) * 1000 + 700);
     }
     return () => {
+      cancelled = true;
       window.clearTimeout(begin);
       window.clearTimeout(leave);
       window.clearTimeout(done);
