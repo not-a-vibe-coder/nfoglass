@@ -107,7 +107,7 @@ export function Footer() {
 
         <div aria-hidden className="pointer-events-none mt-16 select-none overflow-hidden">
           <p className="font-display text-[19vw] leading-[0.8] font-bold tracking-[-0.05em] text-white/[0.06] lg:text-[16rem]">
-            glass.com.ng
+            nfoglass
           </p>
         </div>
         <div className="mt-6 flex flex-col justify-between gap-3 border-t border-border pt-6 text-[13px] text-muted-foreground sm:flex-row">
