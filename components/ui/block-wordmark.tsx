@@ -252,7 +252,7 @@ export function BlockWordmark({
     };
     // Measure only once the real face is resident, never off a fallback.
     Promise.all([
-      ultraReady(),
+      face === ULTRA ? ultraReady() : null,
       typeof document !== "undefined" && document.fonts
         ? document.fonts.load(`${fontWeight} ${fontSize}px ${face}`).then(() => document.fonts.ready)
         : null,
