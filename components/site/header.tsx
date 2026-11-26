@@ -60,8 +60,8 @@ export function Header() {
             : "border-ink/10 bg-paper/80 text-ink shadow-[0_14px_34px_-22px_rgba(6,63,55,0.5)]",
         )}
       >
-        <Link href="/" aria-label="glass.com.ng home" className="shrink-0">
-          <Wordmark />
+        <Link href="/" aria-label="nfoglass home" className="shrink-0">
+          <Wordmark name="nfoglass" />
         </Link>
         <nav aria-label="Main" className="ml-4 hidden items-center gap-0.5 lg:flex">
           {NAV.map((n) => {
