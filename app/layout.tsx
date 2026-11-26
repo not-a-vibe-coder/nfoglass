@@ -8,8 +8,8 @@ import { Loader } from "@/components/site/loader";
 export const metadata: Metadata = {
   metadataBase: new URL("https://glass.com.ng"),
   title: {
-    default: "glass.com.ng · Nigeria’s first online glass company",
-    template: "%s · glass.com.ng",
+    default: "nfoglass · Nigeria’s first online glass company",
+    template: "%s · nfoglass",
   },
   description:
     "Order glass cut to your measure: toughened, laminated, mirrors, shower screens, balustrades, splashbacks and more, delivered from Lagos Island across Nigeria.",
