@@ -402,8 +402,7 @@ export function BlockWordmark({
   });
 
   const ready = metrics !== null;
-  const isRendering = getRemotionEnvironment().isRendering;
-  const accel = isRendering ? null : { willChange: "transform" as const };
+  const accel = { willChange: "transform" as const };
   const squareLeft = cx - side / 2;
 
   return (
