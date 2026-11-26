@@ -32,7 +32,7 @@ export function Footer() {
       <div className="mx-auto max-w-[1320px] px-5 pt-20 pb-10 sm:px-8">
         <div className="grid gap-12 lg:grid-cols-[1.3fr_1fr_1fr_1fr]">
           <div>
-            <Wordmark className="text-[34px]" markSize={56} />
+            <Wordmark name="nfoglass" className="text-[34px]" markSize={56} />
             <p className="mt-4 max-w-sm text-[15px] leading-relaxed text-muted-foreground">
               Nigeria’s first online glass company. Glass cut to your measure, toughened, polished and delivered, from our
               showroom on Lagos Island to the rest of the country.
