@@ -23,9 +23,13 @@ export function Wordmark({
   return (
     <span className={cn("flex items-center gap-2 font-display text-[22px] leading-none font-bold tracking-[-0.03em]", className)}>
       <Image src="/logo-160.png" alt="" width={markSize} height={markSize} priority className="shrink-0 drop-shadow-[0_4px_10px_rgba(37,160,90,0.35)]" />
-      <span>
-        glass<span className="text-teal-400">.</span>com<span className="text-teal-400">.</span>ng
-      </span>
+      {name ? (
+        <span>{name}</span>
+      ) : (
+        <span>
+          glass<span className="text-teal-400">.</span>com<span className="text-teal-400">.</span>ng
+        </span>
+      )}
     </span>
   );
 }
