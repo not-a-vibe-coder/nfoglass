@@ -2,15 +2,21 @@
 
 import { Player } from "@remotion/player";
 import Image from "next/image";
+import { usePathname } from "next/navigation";
 import { useEffect, useState } from "react";
 import BlockWordmark from "@/components/ui/block-wordmark";
 
-// The block wordmark spells "glass" over the page on the first visit of a session, then lifts
+// The block wordmark spells "glass" over the page on every load and every page change, then lifts
 // away. The build resolves around frame 115 at 30fps, so the overlay holds about 4.3s.
 const DURATION = 130;
-const KEY = "glass:loader-seen";
 
+// Keyed by the path, so each navigation mounts a fresh overlay and plays it again.
 export function Loader() {
+  const path = usePathname();
+  return <LoaderScreen key={path} />;
+}
+
+function LoaderScreen() {
   const [state, setState] = useState<"pending" | "show" | "leaving" | "done">("pending");
 
   useEffect(() => {
@@ -20,12 +26,8 @@ export function Loader() {
     let leave = 0;
     let done = 0;
     function start() {
-      let seen = false;
-      try {
-        seen = sessionStorage.getItem(KEY) === "1";
-      } catch {}
       const reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
-      if (seen || reduce) {
+      if (reduce) {
         setState("done");
         window.dispatchEvent(new Event("glass:loaded"));
         return;
@@ -36,9 +38,6 @@ export function Loader() {
       done = window.setTimeout(() => {
         setState("done");
         document.documentElement.style.overflow = "";
-        try {
-          sessionStorage.setItem(KEY, "1");
-        } catch {}
         window.dispatchEvent(new Event("glass:loaded"));
       }, (DURATION / 30) * 1000 + 700);
     }
