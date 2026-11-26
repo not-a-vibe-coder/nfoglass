@@ -48,7 +48,20 @@ export function Header() {
     return () => window.removeEventListener("scroll", onScroll);
   }, [onHome]);
 
-  const dark = onHome && !scrolled && !open;
+  // While the drawer is open: lock the page behind it and let Escape close it
+  useEffect(() => {
+    if (!open) return;
+    const prev = document.documentElement.style.overflow;
+    document.documentElement.style.overflow = "hidden";
+    const onKey = (e: KeyboardEvent) => e.key === "Escape" && setOpen(false);
+    window.addEventListener("keydown", onKey);
+    return () => {
+      document.documentElement.style.overflow = prev;
+      window.removeEventListener("keydown", onKey);
+    };
+  }, [open]);
+
+  const dark = onHome && !scrolled;
 
   return (
     <header className="fixed inset-x-0 top-0 z-50 px-3 pt-3 sm:px-5">
